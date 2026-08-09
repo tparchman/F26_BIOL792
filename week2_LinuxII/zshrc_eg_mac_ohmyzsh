@@ -1,0 +1,42 @@
+echo "[.zshrc loaded]"
+# ===============================
+# Basic .zshrc for Course Use
+# ===============================
+
+# Load Oh My Zsh
+export ZSH="$HOME/.oh-my-zsh"
+ZSH_THEME="agnoster"        # Nice, informative prompt
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
+# ===============================
+# Helpful Alias Collection
+# ===============================
+
+# Always call Python 3 by default
+alias python='python3'
+
+# Safer & friendlier file management
+alias ll="ls -laF"
+alias ls="ls -F"
+alias rm="rm -i"   # Prompt before removing files
+alias mv="mv -i"   # Prompt before moving files
+alias cp="cp -i"   # Prompt before copying files
+
+# ===============================
+# Quality of Life
+# ===============================
+
+# Confirm before overwriting redirection
+set -o noclobber
+
+# Show git branch in prompt
+autoload -Uz vcs_info
+precmd() { vcs_info }
+setopt prompt_subst
+PROMPT='%n@%m %~ ${vcs_info_msg_0_}%# '
+
+# ===============================
+# End of File
+# ===============================
