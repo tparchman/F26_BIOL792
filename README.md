@@ -41,11 +41,11 @@ start working more confidently with Linux and Python, and to have the basic tool
 
 * **Computer with Linux/Linux operating system** Students with
   Mac computers already have machines running Linux and
-  are ready to go. Same goes for students running Linux (Ubuntu, Centos, etc.). Students using computers running a windows OS will need to figure out how to install Linux or a Linux emulator on their machine. Details on options on provided under the [LinuxI directory](https://github.com/tparchman/F25_BIOL792/tree/main/week1_LinuxI) 
+  are ready to go. Same goes for students running Linux (Ubuntu, Centos, etc.). Students using computers running a windows OS will need to figure out how to install Linux or a Linux emulator on their machine. Details on options on provided under the [LinuxI directory](https://github.com/tparchman/F26_BIOL792/tree/main/week1_LinuxI) 
 
 * **Supplemental primers, readings and assignments** will be announced during the class and provided on the [course github page](https://github.com/tparchman/F26_BIOL792).
 
-* **Practical computing for biologists (*Optional*)** Haddock, S.H.D. and Dunn, C.W., 2011. Sunderland, MA, USA: Sinauer Associates. The book provides an excellent guide to the much of content of the course, is filled with excellent examples and problems.
+* (**Optional**) **Practical computing for biologists** Haddock, S.H.D. and Dunn, C.W., 2011. Sunderland, MA, USA: Sinauer Associates. The book provides an excellent guide to the much of content of the course, is filled with excellent examples and problems.
 
 
 ## Course Format
@@ -61,7 +61,7 @@ Your grade in this course will be based on the following:
  
 * **Participation (30%)** This is a graduate course, with full attendance and participation expected. Participation entails **showing up for class prepared** and doing your best to work through assigned tasks and programming example problems. Some of the material we cover might be easy and quick to figure out. Other material and tasks will present roadblocks that will be more difficult to figure out. No questions will be stupid questions, and we will discuss and explore the use of AI to speed your learning.
  
-* **Independent project (20%)** Everyone will be responsible for an independent project which can be organized either individually, or as a group. This will involve identifying a task or problem in your research (or the research of the group you work within) that either requires, or can be made much more efficient, using Python or Linux scripting. Each group (or individual) will need to turn in a one to two page description of the task and how they will solve it by **week 6**. By week 12, each group will need to turn in final scripts and a one to three page description of how the problem was solved, and how the code works. In addition, each group will give a short (10-15 minute) presentation that describes the data, the problem, and how their scripting tools work. For those without data or ideas, I can supply options.
+* **Independent project (20%)** Everyone will be responsible for an independent project which can be organized either individually, or as a group. This will involve identifying a task or problem in your research (or the research of the group you work within) that either requires, or can be made much more efficient, using Python or Linux scripting. Each group (or individual) will need to turn in a one to two page description of the task and how they will solve it by **week 6**. By week 13, each group will need to turn in final scripts and a one to three page description of how the problem was solved, and how the code works. In addition, each group will give a short (10-15 minute) presentation that describes the data, the problem, and how their scripting tools work. For those without data or ideas, I can supply options.
 
 **Grading scale as follows:**
 
@@ -76,8 +76,8 @@ Your grade in this course will be based on the following:
 
 ## University Policies
 ### **Dropping/Withdrawing**
-Last day to drop a class and receive a full refund: Sep. 43, 2025\
-**Final day to withdrawal from classes (W, no refund): Oct. 28, 2025**
+Last day to drop a class and receive a full refund: Sep. 2, 2026\
+**Final day to withdrawal from classes (W, no refund): Oct. 27, 2026**
 
 
 ### **Incomplete Grade**
