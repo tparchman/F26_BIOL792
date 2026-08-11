@@ -115,8 +115,8 @@ and appropriate accommodations.
 
 | Week    |  Date          |  Class                         |  Due          |
 | ------- | ---------------| ------------------------------ | ------------- |
-| Week 1  | Aug. 25 Aug 27    | Course introduction, Linux I    | 
-| Week 2  |	Sep. 1, Sep. 3      | Linux II                        |               |
+| Week 1  | Aug. 25, 27    | Course introduction, Linux I    | 
+| Week 2  |	Sep. 1,  3      | Linux II                        |               |
 | Week 3  |	Sep. 8, 10	   | Linux III                       | Homework 1   |
 | Week 4  |	Sep. 15, 17	   | Linux IV                        | Homework 2   |
 | Week 5  |	Sep. 22, 24	   | Python I                       | Homework 3 | 
