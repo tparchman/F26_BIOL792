@@ -4,7 +4,7 @@
 - getting set with Linux
 - Text editors: why they are important, choosing among options
 - introduction to simple Linux commands
-- From the book: **Chapter 1; Chapter 4 to page 61**. Preview chapters 2 and 3 if you like, we will cover regular expressions in depth once we get into Python.
+- If you want to utilize the Haddock and Dunn book, the Linux chapters are quite useful: **Chapter 1; Chapter 4 to page 61**. Preview chapters 2 and 3 if you like, we will cover regular expressions in depth once we get into Python.
 
 ## Overview
 We will start by getting set up for the course. First, we will make sure everyone has Linux running on their computers. Second, we will choose a text editor to use for this course and for writing and editing code in general.
@@ -53,7 +53,7 @@ For a brief history of Linux and its significance, as well as an alternative int
 ## 3. Big data: text processing and manipulation
 Most big data is stored as text, or compressed text files. Text is special binary format of storing data whose numbers correspond to human readable digits, letters or characters. This is the most transparent and transportable way to store data, and is hence the medium of big data. 
 
-In addition, computer code is written in text. In this course we will write Bash and Python scripts, which will simply be written and stored in text files interpretted by the appropriate mechanism and executed through your terminal.
+In addition, computer code is written in text. In this course we will write shell (Linux commands in script form) and Python scripts, which will simply be written and stored in text files interpretted by the appropriate mechanism and executed through your terminal.
 
 ## 4. Text editors for writing and storing code
 
@@ -223,7 +223,7 @@ sudo apt install zsh -y
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-## To prepare for next week and beyond:
+## Intro Linux materials to to prepare for next week and beyond:
 
 - quick guides to basic Linux commands can be found in Appendix 2 of Haddock and Dunn and the course page has numerous 'cheat 'sheets' under Linux_resources. These will be extremely useful.
 
@@ -231,9 +231,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 - Also, please have a look at the excellent [tutorial from software carpentry](http://swcarpentry.github.io/shell-novice/). For this week and next, follow steps 1 through 3.
 
-## Fun Linux commands that demonstrate utility for anyone:
 
-# Fun and Useful Linux Commands to Try
+## Fun and Useful Linux Commands to Try
 
 These commands are safe to run, work in any Linux terminal, and will give you a taste of what’s possible in the command line.  
 Try them out. We will learn more about package installers for the various versions of linux you are running (depending on PC or Mac) next week. Long story short, for Mac, you will use `brew`. For Ubuntu or Mynt Linux you will use `apt`. Some examples are given for some of the examples below.
