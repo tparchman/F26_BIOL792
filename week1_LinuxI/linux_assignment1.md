@@ -1,11 +1,11 @@
-# BIOL 792-1028. Unix week one tasks 
+# BIOL 792-1028. Linux week one tasks 
 
 
 ## Common commands
 
-Below is a sample list of commonly used UNIX commands. You might want to use this to take notes on commands as you work through the tutorial, or just as a checklist so that you know you’ve covered all the bases.
+Below is a sample list of commonly used Linux commands. You might want to use this to take notes on commands as you work through the tutorial, or just as a checklist so that you know you’ve covered all the bases.
 
-It is useful to note that the `up` and `down` arrow keys scroll through recently used commands, and `tab` key completes the name of a file, directory, unix command, or piece of installed software. You will want to use `tab` heavily for two reasons. 1. it will save you most of your typing time, 2. autocomplete is more accurate than your  typing.
+It is useful to note that the `up` and `down` arrow keys scroll through recently used commands, and `tab` key completes the name of a file, directory, Linux command, or piece of installed software. You will want to use `tab` heavily for two reasons. 1. it will save you most of your typing time, 2. autocomplete is more accurate than your  typing.
 
     ls          mkdir           cd          pwd
     cp          mv              rm          rmdir 		
@@ -15,7 +15,7 @@ It is useful to note that the `up` and `down` arrow keys scroll through recently
 
 
 ## `man` pages
-For any Unix command (there are thousands) you can find the full information on that command by using  `man`. 
+For any Linux command (there are thousands) you can find the full information on that command by using  `man`. 
 
 For example: 
 
@@ -74,7 +74,7 @@ The following command would move a file into the directory Macintosh HD, which a
 
 Note: there is a `\ ` before HD. This is because the directory name (“Machintosh HD”) has a space in it.
 
-*In general, when making and naming directories in unix, you will want to avoid using spaces because they require extra typing and the `\ ` needs to be used instead of just “ “. SPACES IN DIRECTORY NAMES = BAD.* Don't do it. Ever.
+*In general, when making and naming directories in Linux, you will want to avoid using spaces because they require extra typing and the `\ ` needs to be used instead of just “ “. SPACES IN DIRECTORY NAMES = BAD.* Don't do it. Ever.
 
 What do you think the following command will do? Try it and find out:
 
@@ -116,22 +116,22 @@ Will list processes running on your machine.
 Open another terminal window (`command n`) and use `less` to look at the top of a text file. Type `top` in the other terminal and look for the line showing that less is running.
 
 
-## Using basic Unix to explore features of a file of Illumina DNA sequencing data.
+## Using basic Linux to explore features of a file of Illumina DNA sequencing data.
 
 Make a directory in your home directory (e.g., /Users/parchman/) entitled BIOL792.
 
-Make a file called unix1_log.txt in the BIOL792 directory. When you are done with this assignment, record everything you did from the command line in this log file (learn to use `touch` to make a new file).
+Make a file called Linux1_log.txt in the BIOL792 directory. When you are done with this assignment, record everything you did from the command line in this log file (learn to use `touch` to make a new file).
 
 Inside this directory, make three other directories named:
 - data
 - scripts
 - resources
 		
-Download the example file “sample_passerina.fastq” from the course website for the unix1 assignment, and use the command line move it into the data directory you made above. 
+Download the example file “sample_passerina.fastq” from the course website for the Linux1 assignment, and use the command line move it into the data directory you made above. 
 
 - What is the size of this file, and when was it last modified? 
 - How many lines are in the file?
-- `grep` is a powerful pattern matching utility in unix. Executed to find a simple pattern match, it will print to screen every line that contains the specified text or flexible pattern (we call the expressions to fit these matches "regular expressions" and will learn much more on this later in the course). The file you are working with here is raw data from an Illumina sequencer. Each DNA sequence is represented by information on four lines. The lines starting with “@” are the IDs for each sequence, the following lines are always a DNA sequence (2nd), a quality ID (3rd), and the quality score for the previous sequence (4th). Study the `grep` `man` page, and use grep to find and count lines that start with "@". This will allow you to count the number of DNA sequences in the file.
+- `grep` is a powerful pattern matching utility in Linux. Executed to find a simple pattern match, it will print to screen every line that contains the specified text or flexible pattern (we call the expressions to fit these matches "regular expressions" and will learn much more on this later in the course). The file you are working with here is raw data from an Illumina sequencer. Each DNA sequence is represented by information on four lines. The lines starting with “@” are the IDs for each sequence, the following lines are always a DNA sequence (2nd), a quality ID (3rd), and the quality score for the previous sequence (4th). Study the `grep` `man` page, and use grep to find and count lines that start with "@". This will allow you to count the number of DNA sequences in the file.
 
 Try the `history` command. What do you see? You could find this quite useful. When you use the up and down arrow keys from the prompt, you are basically navigating up and down through this list. Try that out, and take note that you will probably use this feature regularly. 
 
@@ -146,13 +146,13 @@ Try some other useful commands:
     $ cal
 
 
-## Unix tutorials: **complete the first 2-3** sections of each of the below tutorials. This will help you get up to speed and or solidify introductory Unix commands.
+## Linux tutorials: **complete the first 2-3** sections of each of the below tutorials. This will help you get up to speed and or solidify introductory Linux commands.
 
 Lastly for our first week, work through the first two sections of this tutorial to reiterate your introduction.
 
-- Useful primer from "Unix and Perl to the Rescue", by Bradnam and Korf. For this course, the [unix_primer](http://korflab.ucdavis.edu/Unix_and_Perl/current.html) is hard to beat. Please bookmark this and get familiar with part 1 and part 2.
+- Useful primer from "Linux and Perl to the Rescue", by Bradnam and Korf. For this course, the [Linux_primer](http://korflab.ucdavis.edu/Linux_and_Perl/current.html) is hard to beat. Please bookmark this and get familiar with part 1 and part 2.
 
 - Also, please have a look at the excellent [tutorial from software carpentry](http://swcarpentry.github.io/shell-novice/). For this week and next, follow steps 1 through 3.
 
-- quick guides to basic Unix commands can be found in [Appendix 2](https://github.com/tparchman/BIOL792/blob/master/unix_resources/Haddock_and_Dunn_quickguide_Appendices.pdf) of Haddock and Dunn and the course page has numerous 'cheat 'sheets' under unix_resources, such as this [unix cheat sheet](https://github.com/tparchman/BIOL792/blob/master/unix_resources/unix_cheat_sheet.pdf). These will be extremely useful.
+- quick guides to basic Linux commands can be found in [Appendix 2](https://github.com/tparchman/F26_BIOL792/blob/main/linux_resources/Haddock_and_Dunn_quickguide_Appendices.pdf) of Haddock and Dunn and the course page has numerous 'cheat 'sheets' under Linux_resources, such as this [Linux cheat sheet](https://github.com/tparchman/F26_BIOL792/blob/main/linux_resources/unix_cheat_sheet.pdf). These will be extremely useful.
 
