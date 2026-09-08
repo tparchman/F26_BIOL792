@@ -76,7 +76,7 @@ For Mac Unix or PC Linux, you can change the default shell to `szh` as below:
 
 The alias collection above has some useful features. `ll` and `ls`, when typed, will give you more complete, and/or more readable information. `rm`, `mv`, and `cp` have the `-i` option added, which is  HIGHLY recommended. This will change the behavior of `rm`, `mv`, or `cp` to always ask if you are sure you want to remove a file, or overwrite a file with the same name in terms of `cp` and `mv`.
 
-### ### `oh my zsh`: an open source, community-driven framework for managing your zsh configuration.
+### `oh my zsh`: an open source, community-driven framework for managing your zsh configuration.
 Oh My Zsh makes the command line friendlier, safer, and more powerful. It adds features like syntax highlighting, auto-completion, and a customizable prompt that shows useful information (such as your current git branch). For students new to Linux/Unix, it reduces frustration by catching mistakes and making the shell more informative, while still teaching the fundamentals of command-line work.  
 
 ### Installing ohmyzsh
@@ -118,7 +118,7 @@ chsh -s $(which zsh)
 
 - **Plugins**: Enable `git` (default), and optionally add `zsh-autosuggestions` and `zsh-syntax-highlighting` for real-time feedback.
 
-- **Safer redirects**: Add `set -o noclobber` to prevent accidentally overwriting files with `>`.
+- **Safer redirects**: Add `set -o noclobber` to prevent accidentally overwriting files with `>`. Do this by editing `.zshrc`
 
 If you are running Mac Unix, you are going to use `zshrc_eg_mac_ohmyzsh` that you can find on course github page under week2.
 

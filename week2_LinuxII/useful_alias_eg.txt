@@ -1,0 +1,7 @@
+alias ll="ls -laF"
+alias ls="ls -F"
+alias rm="rm -i"
+alias mv="mv -i"
+alias cp="cp -i"
+alias python3="python3.13"
+alias pip3="pip3.13"
