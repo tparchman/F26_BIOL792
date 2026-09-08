@@ -43,7 +43,7 @@ head -n 4000 sample_passerina.fastq > first4000.fastq
 
 ## 2. Pipes ("|"): moving **stdout** from one command into another.
 
-Decompress (using `gunzip`) sample_passerina.fastq.gz and try each of the commands below, striving to understand what each is doing. The sections in Haddock and Dunn, or the regular expression cheat sheat under [unix resources](https://github.com/tparchman/F22_BIOL792_coursepage/tree/main/unix_resources) on the github page, will help you understand what `^` and `[ ]` mean for regular expressions. In addition, you will want to learn what the `tr` command does.
+Decompress (using `gunzip`) sample_passerina.fastq.gz and try each of the commands below, striving to understand what each is doing. The sections in Haddock and Dunn, or the regular expression cheat sheat under [linux_resources](https://github.com/tparchman/F26_BIOL792/tree/main/linux_resources) on the github page, will help you understand what `^` and `[ ]` mean for regular expressions. In addition, you will want to learn what the `tr` command does.
 
     grep ^@ sample_passerina.fastq | wc -l   
 
@@ -59,7 +59,7 @@ Decompress (using `gunzip`) sample_passerina.fastq.gz and try each of the comman
 
 <p>&nbsp;</p>
 
-**2.A**. use `wget` (or similar) to download **yeast_genome.gff** from the [github site](https://github.com/tparchman/F25_BIOL792/blob/main/week3_unixIII/yeast_genome.gff) directly to your current working directory. 
+**2.A**. use `wget` (or similar) to download **yeast_genome.gff** from the [github site](https://github.com/tparchman/F26_BIOL792/blob/main/week3_unixIII/yeast_genome.gff) directly to your current working directory. 
 
 Note, fastest way to do this would be right click on `raw` and copy link to raw data. Try:
 
