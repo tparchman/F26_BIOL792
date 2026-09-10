@@ -14,6 +14,31 @@
 
 <p>&nbsp;</p>
 
+**Update on pulling course materials from github**
+
+In the week 1 primer, I gave you a line of code to clone the full course directory from github. The code below will clone and pull the full directory tree and all of its contents.
+
+```bash
+git clone https://github.com/tparchman/F26_BIOL792
+```
+As we progress each week, I will add new material and update existing material. The best way to keep your local copy up to date is to use `git pull`. This will download new files and directories that I have added to GitHub and update course files that I have changed, while preserving new files that you have created locally.
+
+First, move into the course directory:
+
+```bash
+cd path/to/course_directory
+```
+Then pull the latest version from GitHub:
+
+```bash
+git pull
+```
+You can check the status of your local repository at any time with:
+
+```bash
+git status
+```
+
 ## 1. Process monitoring with `top`, `htop` and `ps`, running jobs in the background, killing jobs
 `top` or `htop` will display information on processes running on the machine you are logged into.  Doesn't matter what directory you call it from.
 

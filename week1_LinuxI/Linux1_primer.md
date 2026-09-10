@@ -191,12 +191,12 @@ For this course, downloading individual files might suffice. But if you would li
 **hint:** make a directory somewhere on your computer for this course. Run below command in that directory.
 
 ```
-git clone https://github.com/tparchman/F25_BIOL792
+git clone https://github.com/tparchman/F26_BIOL792
 ```
 
-The above command will built a directory `F25_BIOL792` directory from wherever the command was executed.
+The above command will built a directory `F26_BIOL792` directory from wherever the command was executed.
 
-To pull weekly updates I add to the github page, you can use the below command from inside the `F25_BIOL792` directory. This will pull new additional files. However, it will also overwite already existing files that you have edited with whatever lives on the github repo. So, if doing things this way, dont save altered files from the repo in this original directory. Rather, copy them somewhere else so the original directory will stay exactly as what is on the githup repo.
+To pull weekly updates I add to the github page, you can use the below command from inside the `F26_BIOL792` directory. This will pull new additional files. However, it will also overwite already existing files that you have edited with whatever lives on the github repo. So, if doing things this way, dont save altered files from the repo in this original directory. Rather, copy them somewhere else so the original directory will stay exactly as what is on the githup repo.
 
 ```
 git pull
