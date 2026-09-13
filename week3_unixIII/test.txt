@@ -1,0 +1,2757 @@
+Directory summary for: /Users/thomasparchman/Desktop/files/courses
+----------------------------------------
+Number of files:           2641
+Number of directories:      240
+Total disk space:      3.5G
+
+Directory tree:
+----------------------------------------
+/Users/thomasparchman/Desktop/files/courses
+├── chpt1_antibioticRes
+│   ├── antibioticresistance.pdf
+│   ├── blankdish.jpg
+│   ├── Fig2.JPG
+│   ├── Fig3.JPG
+│   ├── Fig4.JPG
+│   ├── Fig5.JPG
+│   ├── Fig6.JPG
+│   ├── gradientfig1.pdf
+│   ├── krist07.pdf
+│   ├── slides.pdf
+│   └── slides.tex
+├── con_genomics
+│   └── rough_schedule_readings.txt
+├── data_science_II
+│   ├── git
+│   │   ├── git_how_to.md
+│   │   └── Notes_git_setup.txt
+│   └── PeerEvals_2021.docx
+├── data_scienceI
+│   ├── BIOL792.1028_course_description.pdf
+│   ├── class_email_list.txt
+│   ├── course_description.docx
+│   ├── F21_BIOL792_syllabus.pdf
+│   ├── F22_emaillist.txt
+│   ├── F24_BIOL792-1028_course_description.docx
+│   ├── F25_BIOL792-1028_course_description.docx
+│   ├── F25_BIOL792-1028_course_description.pdf
+│   ├── F26_BIOL792-1028_course_description.docx
+│   ├── F26_BIOL792-1028_course_description.pdf
+│   ├── grades.csv
+│   ├── HaddockandDunnPDF.pdf
+│   ├── independent_projects
+│   │   └── jennnings
+│   │       ├── 5panelviolin_plot.pdf
+│   │       ├── combined_cleaned_data.csv
+│   │       ├── correlational_heatmap.pdf
+│   │       ├── data_sheets_wo_participantinfo.xlsx
+│   │       ├── MJ_data_exploration.ipynb
+│   │       ├── pca_by_subject.pdf
+│   │       ├── roundII
+│   │       │   ├── audio_visual_regressions.png
+│   │       │   ├── combined_cleaned_data.csv
+│   │       │   ├── figure.png
+│   │       │   ├── FinalizedBehavioralData.xlsx
+│   │       │   └── MJ_data_exploration.ipynb
+│   │       └── subject_by_variable_heatmap.pdf
+│   ├── lectures
+│   │   ├── ~$2024_week1.pptx
+│   │   ├── ~$week9_python4.pptx
+│   │   ├── 2025_day1.pptx
+│   │   ├── 2025_week1.pptx
+│   │   ├── CHR1_5_ygenome.txt
+│   │   ├── day3.pptx
+│   │   ├── demo_notes.txt
+│   │   │   ├── week1.txt
+│   │   │   └── week2.txt
+│   │   ├── extraslides_forGBSppt.pptx
+│   │   ├── notes_week1.txt
+│   │   ├── perl_old_lectures
+│   │   │   ├── week10.pptx
+│   │   │   ├── week11.pptx
+│   │   │   ├── week12.pptx
+│   │   │   ├── week13.pptx
+│   │   │   ├── week4.pptx
+│   │   │   ├── week5.pptx
+│   │   │   ├── week6.pptx
+│   │   │   ├── week7.pptx
+│   │   │   ├── week8.pptx
+│   │   │   └── week9.pptx
+│   │   ├── python4_primer.ipynb
+│   │   ├── Rmd_week12
+│   │   │   ├── Rmd_intro.pptx
+│   │   │   └── rmd_play
+│   │   │       ├── city_df.csv
+│   │   │       ├── markdown_demo_live.html
+│   │   │       ├── markdown_demo_live.pdf
+│   │   │       └── markdown_demo_live.Rmd
+│   │   ├── science.txt
+│   │   ├── test.txt
+│   │   ├── unix_intro_slides.pptx
+│   │   ├── week_15.pptx
+│   │   ├── week1.pptx
+│   │   ├── week10_python5.pptx
+│   │   ├── week11_python6.pptx
+│   │   ├── week13_python6_dictionaries.pptx
+│   │   ├── week13_python8.pptx
+│   │   ├── week13_quick_info.pptx
+│   │   ├── week1b.pptx
+│   │   ├── week2.pptx
+│   │   ├── week3.pptx
+│   │   ├── week4.pptx
+│   │   ├── week5_chap7_python_first_steps.pptx
+│   │   ├── week6_python.pptx
+│   │   ├── week7_python_chap9.pptx
+│   │   ├── week8_python3.pptx
+│   │   ├── week9_python4.pptx
+│   │   ├── week9a.pptx
+│   │   └── yeast_genome.gff
+│   ├── past_independent_projects
+│   │   ├── 2022
+│   │   │   └── isable
+│   │   │       ├── Python_Paleopath_Project (1).html
+│   │   │       └── Python_Paleopath_Project.html
+│   │   ├── 2023
+│   │   │   ├── babish_peechat
+│   │   │   │   ├── 792proj.html
+│   │   │   │   └── Sage Babish and Victoria Peechatt - BIOL792 Presentation.pptx
+│   │   │   ├── baldridge
+│   │   │   │   ├── cell.ranger.notes.md
+│   │   │   │   └── LIBRA-Seq Presentation.pptx
+│   │   │   ├── cleymaet
+│   │   │   │   ├── BIOL 792 Project Presentation Cleymaet.pptx
+│   │   │   │   ├── BIOL792_project_whitesheet.md
+│   │   │   │   ├── ebd_NVFeb_lat_long.txt
+│   │   │   │   ├── ebd_sampling_info.txt
+│   │   │   │   └── NV_ebd_event_plot_reds(1).html
+│   │   │   ├── jeshurun_biney
+│   │   │   │   ├── BIOL_792_ Final Presentation.pptx
+│   │   │   │   └── White Paper_BIOL_792.pdf
+│   │   │   ├── mcmullen_adkins
+│   │   │   │   ├── Final
+│   │   │   │   │   ├── BIOL792_Project_EMandCA.md
+│   │   │   │   │   ├── map_ID.png
+│   │   │   │   │   ├── map_noID.png
+│   │   │   │   │   ├── neotoma1.png
+│   │   │   │   │   ├── neotoma2.png
+│   │   │   │   │   └── StructurePlot.png
+│   │   │   │   └── Final.zip
+│   │   │   ├── protic
+│   │   │   ├── ramin_odunayo_quagraine
+│   │   │   ├── silliman_kim
+│   │   │   │   ├── Kim_Silliman_Python class presentation.pptx
+│   │   │   │   └── Project_Code_CS_AK.ipynb
+│   │   │   └── suquioa_mendoza
+│   │   │       ├── BIOL792.Rproj
+│   │   │       ├── BIOL792ProjectProp_SM.docx
+│   │   │       ├── RMarkdownSyntax.R
+│   │   │       ├── Rmarkdowntut.html
+│   │   │       └── Rmarkdowntut.Rmd
+│   │   ├── 2024
+│   │   │   ├── JPalmaworkflow.md
+│   │   │   ├── PALMABIOL 792 Final Projcet.pptx
+│   │   │   └── presentation_notes.txt
+│   │   └── notes_on_presentations.docx
+│   ├── pcfb
+│   │   ├── examples
+│   │   │   ├── aminoacid_table.html
+│   │   │   ├── Ch18-MapColors.pdf
+│   │   │   ├── Ch3observations.txt
+│   │   │   ├── chart.html
+│   │   │   ├── chart.php
+│   │   │   ├── chart0.php
+│   │   │   ├── chartform.php
+│   │   │   ├── ColorPlot.pdf
+│   │   │   ├── ctd
+│   │   │   │   ├── Marrus_ctdTib515.txt
+│   │   │   │   ├── Marrus_ctdTib531.txt
+│   │   │   │   ├── Marrus_ctdTib547.txt
+│   │   │   │   ├── Marrus_ctdTib596.txt
+│   │   │   │   ├── Marrus_ctdVen1575.txt
+│   │   │   │   ├── Marrus_ctdVen1777.txt
+│   │   │   │   ├── Marrus_ctdVen2243.txt
+│   │   │   │   ├── midwater.sql
+│   │   │   │   ├── midwater2.sql
+│   │   │   │   ├── o_ctdTib598.txt
+│   │   │   │   ├── o_ctdTib626.txt
+│   │   │   │   ├── o_ctdTib834.txt
+│   │   │   │   ├── o_ctdTib965.txt
+│   │   │   │   ├── o_ctdTib985.txt
+│   │   │   │   └── o_ctdTib989.txt
+│   │   │   ├── ctd.rtf
+│   │   │   ├── ctd.txt
+│   │   │   ├── ctd237e6.asc
+│   │   │   ├── curlexamples.txt
+│   │   │   ├── FEC00001_1.seq
+│   │   │   ├── FEC00002_1.seq
+│   │   │   ├── FEC00003_1.seq
+│   │   │   ├── FEC00004_1.seq
+│   │   │   ├── FEC00005_1.seq
+│   │   │   ├── FEC00005_2.seq
+│   │   │   ├── FEC00006_1.seq
+│   │   │   ├── FEC00007_1.seq
+│   │   │   ├── FEC00007_2.seq
+│   │   │   ├── FEC00007_3.seq
+│   │   │   ├── FPexamples.fta
+│   │   │   ├── FPexcerpt.fta
+│   │   │   ├── japetella_respiration.txt
+│   │   │   ├── LatLon.txt
+│   │   │   ├── LEDspectra.pdf
+│   │   │   ├── MapColors.pdf
+│   │   │   ├── Marrus_claudanielis.kml
+│   │   │   ├── Marrus_claudanielis.txt
+│   │   │   ├── mysql_commands.txt
+│   │   │   ├── nanodrop_abs.ndj
+│   │   │   ├── ODVpalette.pdf
+│   │   │   ├── Optode run011.xls
+│   │   │   ├── optode-run.txt
+│   │   │   ├── reflist.txt
+│   │   │   ├── ScatterandBoxPlot.pdf
+│   │   │   ├── shaver_etal.csv
+│   │   │   ├── spectra
+│   │   │   │   ├── LEDBlue.txt
+│   │   │   │   ├── LEDGreen.txt
+│   │   │   │   ├── LEDRed.txt
+│   │   │   │   └── LEDYellow.txt
+│   │   │   ├── structure_1ema.pdb
+│   │   │   ├── structure_1g7k.pdb
+│   │   │   ├── structure_1gfl.pdb
+│   │   │   ├── structure_1s36.pdb
+│   │   │   ├── structure_1sl8.pdb
+│   │   │   ├── structure_1sl9.pdb
+│   │   │   ├── structure_1xmz.pdb
+│   │   │   └── ThalassocalyceData.txt
+│   │   ├── sandbox
+│   │   └── scripts
+│   │       ├── asciihexbin.py
+│   │       ├── bootstrap.py
+│   │       ├── compositioncalc1.py
+│   │       ├── compositioncalc2.py
+│   │       ├── dnacalc.py
+│   │       ├── dnacalc1.py
+│   │       ├── dnacalc2.py
+│   │       ├── exifparse.py
+│   │       ├── filestoXYYY.py
+│   │       ├── latlon_1.py
+│   │       ├── latlon_2.py
+│   │       ├── latlon_3.py
+│   │       ├── latlon_4.py
+│   │       ├── latlon_5.py
+│   │       ├── matplotCTD.py
+│   │       ├── mylatlon_2.py
+│   │       ├── mylatlon_4.py
+│   │       ├── proteincalc.py
+│   │       ├── README.txt
+│   │       ├── rosetta.c
+│   │       ├── rosetta.txt
+│   │       ├── seqread_0.py
+│   │       ├── seqread_1.py
+│   │       ├── seqread.py
+│   │       ├── serialtest.py
+│   │       ├── shellfunctions.sh
+│   │       ├── shellfunctions.txt
+│   │       ├── shellscripts.sh
+│   │       └── sqlmerge.py
+│   ├── pcfb_examples.zip
+│   ├── ponderosa_accts.txt
+│   ├── python_materials_forclass
+│   │   ├── PythonLesson1_Chapter8.docx
+│   │   ├── PythonLesson2_Chapter9-1.docx
+│   │   ├── PythonLesson2_Chapter9.docx
+│   │   ├── PythonLesson2_Chapter9.pdf
+│   │   ├── PythonLesson3_Chapter10.docx
+│   │   ├── PythonLesson5Modules.Chapter12.docx
+│   │   └── PythonLessonMerging_Files.Chapter11.docx
+│   ├── python_work
+│   │   ├── biopython_test
+│   │   │   ├── biopython_tutorial.ipynb
+│   │   │   └── example.fasta
+│   │   ├── chap8
+│   │   │   └── dnacal.py
+│   │   ├── first_script.py
+│   │   ├── genbankreadme.txt
+│   │   ├── mac2unix_batch.sh
+│   │   ├── NM_COV19_genome.fasta
+│   │   ├── numpy_tfaske
+│   │   │   ├── Bloom_etal_2018_Reduced_Dataset.csv
+│   │   │   ├── day_five
+│   │   │   ├── example_scripts_students
+│   │   │   │   └── README.md
+│   │   │   ├── logfiles.tgz
+│   │   │   ├── numpy_tutorial.py
+│   │   │   ├── pandas_tutorial.ipynb
+│   │   │   ├── pandas-primer.ipynb
+│   │   │   ├── practice_data.csv
+│   │   │   ├── python4_pandas_practice_answers.md
+│   │   │   ├── python4_pandas_practice.md
+│   │   │   ├── python4_pandas_primer.md
+│   │   │   ├── states_covid.csv
+│   │   │   ├── Untitled Folder
+│   │   │   ├── Untitled.ipynb
+│   │   │   └── Untitled1.ipynb
+│   │   ├── python1
+│   │   │   ├── float_test.py
+│   │   │   ├── hw.py
+│   │   │   ├── hwa.py
+│   │   │   ├── input_demo.py
+│   │   │   ├── math_play_1.py
+│   │   │   ├── python_1_assignment.ipynb
+│   │   │   └── scalar_play.py
+│   │   ├── quagraine
+│   │   │   ├── Python1 Assignment 1.ipynb
+│   │   │   ├── Python1 Assignment 2.ipynb
+│   │   │   ├── Python1 Assignment 3.ipynb
+│   │   │   ├── Python1 Assignment 4.ipynb
+│   │   │   ├── Python3.ipynb
+│   │   │   ├── TLP_Python2.ipynb
+│   │   │   ├── TLP_Python3.ipynb
+│   │   │   └── TLP_Python4.ipynb
+│   │   ├── scalar_play.py
+│   │   ├── week_dictionaries
+│   │   │   ├── Saccharomyces_cerevisiae.R64-1-1.92.chromosome.II.gff3
+│   │   │   ├── seqLenout.txt
+│   │   │   ├── SG_ref.fasta
+│   │   │   └── week11_assignment_solution.ipynb
+│   │   ├── week10_py
+│   │   │   ├── argtest.py
+│   │   │   ├── file_proc.py
+│   │   │   ├── file1.txt
+│   │   │   ├── file2.txt
+│   │   │   ├── file3.txt
+│   │   │   ├── logfiles
+│   │   │   │   ├── ,
+│   │   │   │   ├── 1901302108_H7_D_13.txt.txt
+│   │   │   │   ├── 1901302108_H7_D_14.txt.txt
+│   │   │   │   ├── 1901302109_H7_S_13.txt.txt
+│   │   │   │   ├── 1901302109_H7_S_14.txt.txt
+│   │   │   │   ├── 1901302110_H13_S_13.txt.txt
+│   │   │   │   ├── 1901302110_H13_S_14.txt.txt
+│   │   │   │   ├── 1901302115_H1_S_13.txt.txt
+│   │   │   │   ├── 1901302115_H1_S_14.txt.txt
+│   │   │   │   ├── 1901302117_H15_S_13.txt.txt
+│   │   │   │   ├── 1901302117_H15_S_14.txt.txt
+│   │   │   │   ├── 1901302118_H1_D_13.txt.txt
+│   │   │   │   ├── 1901302118_H1_D_14.txt.txt
+│   │   │   │   ├── 1901302119_H4_S_13.txt.txt
+│   │   │   │   ├── 1901302119_H4_S_14.txt.txt
+│   │   │   │   ├── 1901302120_H5_D_13.txt.txt
+│   │   │   │   ├── 1901302120_H5_D_14.txt.txt
+│   │   │   │   ├── 1901302121_H8_S_13.txt.txt
+│   │   │   │   ├── 1901302121_H8_S_14.txt.txt
+│   │   │   │   ├── 1901302122_H3_D_13.txt.txt
+│   │   │   │   ├── 1901302122_H3_D_14.txt.txt
+│   │   │   │   ├── 1901302134_H13_D_13.txt.txt
+│   │   │   │   ├── 1901302134_H13_D_14.txt.txt
+│   │   │   │   ├── 1901302136_H15_D_13.txt.txt
+│   │   │   │   ├── 1901302136_H15_D_14.txt.txt
+│   │   │   │   ├── 1901302137_H18_S_13.txt.txt
+│   │   │   │   ├── 1901302137_H18_S_14.txt.txt
+│   │   │   │   ├── 1901302138_H11_D_13.txt.txt
+│   │   │   │   ├── 1901302138_H11_D_14.txt.txt
+│   │   │   │   ├── 1901302141_H19_S_13.txt.txt
+│   │   │   │   ├── 1901302141_H19_S_14.txt.txt
+│   │   │   │   ├── 1901302146_H14_D_13.txt.txt
+│   │   │   │   ├── 1901302146_H14_D_14.txt.txt
+│   │   │   │   ├── 1901302150_H14_S_13.txt.txt
+│   │   │   │   ├── 1901302150_H14_S_14.txt.txt
+│   │   │   │   ├── 1901302157_H12_S_13.txt.txt
+│   │   │   │   ├── 1901302157_H12_S_14.txt.txt
+│   │   │   │   ├── 1901302158_H9_S_13.txt.txt
+│   │   │   │   ├── 1901302158_H9_S_14.txt.txt
+│   │   │   │   ├── 1901302194_H10_S_13.txt.txt
+│   │   │   │   ├── 1901302194_H10_S_14.txt.txt
+│   │   │   │   ├── 1901302202_H16_S_13.txt.txt
+│   │   │   │   ├── 1901302202_H16_S_14.txt.txt
+│   │   │   │   ├── 1901302203_H7_S_13.txt.txt
+│   │   │   │   ├── 1901302203_H7_S_14.txt.txt
+│   │   │   │   ├── 1901302212_H9_D_13.txt.txt
+│   │   │   │   ├── 1901302212_H9_D_14.txt.txt
+│   │   │   │   ├── 1901302214_H19_D_13.txt.txt
+│   │   │   │   ├── 1901302214_H19_D_14.txt.txt
+│   │   │   │   ├── 1901302217_H18_D_13.txt.txt
+│   │   │   │   ├── 1901302217_H18_D_14.txt.txt
+│   │   │   │   ├── 1901302221_H6_D_13.txt.txt
+│   │   │   │   ├── 1901302222_H2_S_13.txt.txt
+│   │   │   │   ├── 1901302222_H2_S_14.txt.txt
+│   │   │   │   ├── 1901302223_H16_S_13.txt.txt
+│   │   │   │   ├── 1901302223_H16_S_14.txt.txt
+│   │   │   │   ├── 1901302224_H3_S_13.txt.txt
+│   │   │   │   ├── 1901302224_H3_S_14.txt.txt
+│   │   │   │   ├── 1901302225_H12_D_13.txt.txt
+│   │   │   │   ├── 1901302225_H12_D_14.txt.txt
+│   │   │   │   ├── 1901302227_H11_S_13.txt.txt
+│   │   │   │   ├── 1901302227_H11_S_14.txt.txt
+│   │   │   │   ├── 1901302228_H4_D_13.txt.txt
+│   │   │   │   ├── 1901302228_H4_D_14.txt.txt
+│   │   │   │   ├── 1901302235_H6_S_13.txt.txt
+│   │   │   │   ├── 1901302235_H6_S_14.txt.txt
+│   │   │   │   ├── 1901302236_H17_D_13.txt.txt
+│   │   │   │   ├── 1901302236_H17_D_14.txt.txt
+│   │   │   │   ├── 1901302237_H10_D_13.txt.txt
+│   │   │   │   ├── 1901302237_H10_D_14.txt.txt
+│   │   │   │   ├── 1901302240_H8_D_13.txt.txt
+│   │   │   │   ├── 1901302240_H8_D_14.txt.txt
+│   │   │   │   ├── 1901302241_H2_D_13.txt.txt
+│   │   │   │   ├── 1901302241_H2_D_14.txt.txt
+│   │   │   │   ├── 1901302243_H5_S_13.txt.txt
+│   │   │   │   ├── 1901302243_H5_S_14.txt.txt
+│   │   │   │   ├── cbind_by_key.csv
+│   │   │   │   ├── logger_jupyter_demostart.ipynb
+│   │   │   │   ├── logger_jupyter.ipynb
+│   │   │   │   ├── logger_wpandas.ipynb
+│   │   │   │   ├── logger2.py
+│   │   │   │   ├── logtest
+│   │   │   │   │   ├── 1901302157_H12_S_13.txt.txt
+│   │   │   │   │   ├── 1901302157_H12_S_14.txt.txt
+│   │   │   │   │   ├── 1901302194_H10_S_13.txt.txt
+│   │   │   │   │   ├── 1901302194_H10_S_14.txt.txt
+│   │   │   │   │   ├── 1901302225_H12_D_13.txt.txt
+│   │   │   │   │   ├── 1901302225_H12_D_14.txt.txt
+│   │   │   │   │   ├── 1901302237_H10_D_13.txt.txt
+│   │   │   │   │   ├── 1901302237_H10_D_14.txt.txt
+│   │   │   │   │   ├── cbind_by_key.csv
+│   │   │   │   │   ├── cbind_by_timestamp_rounded.csv
+│   │   │   │   │   ├── cbind_by_timestamp.csv
+│   │   │   │   │   └── logger_wpandas.ipynb
+│   │   │   │   ├── out_logger.txt
+│   │   │   │   ├── out_loggerT.txt
+│   │   │   │   ├── out.txt
+│   │   │   │   ├── outNEW_logger.txt
+│   │   │   │   ├── pika_logs.txt
+│   │   │   │   ├── reg_ex_argloop.py
+│   │   │   │   ├── sample_out.txt
+│   │   │   │   ├── sensor_chunks
+│   │   │   │   │   ├── sensor_chunk_01.csv
+│   │   │   │   │   ├── sensor_chunk_02.csv
+│   │   │   │   │   ├── sensor_chunk_03.csv
+│   │   │   │   │   ├── sensor_chunk_04.csv
+│   │   │   │   │   ├── sensor_chunk_05.csv
+│   │   │   │   │   ├── sensor_chunk_06.csv
+│   │   │   │   │   ├── sensor_chunk_07.csv
+│   │   │   │   │   ├── sensor_chunk_08.csv
+│   │   │   │   │   ├── sensor_chunk_09.csv
+│   │   │   │   │   ├── sensor_chunk_10.csv
+│   │   │   │   │   └── sensor-readings-with-temperature-light-humidity-every-5-minutes-at-8-locations-t.csv
+│   │   │   │   ├── top10headfile.txt
+│   │   │   │   └── Untitled.ipynb
+│   │   │   ├── logfiles.tgz
+│   │   │   ├── logger
+│   │   │   ├── logger_jupyter.ipynb
+│   │   │   ├── logger.py
+│   │   │   ├── logger2_mean.py
+│   │   │   ├── logger2.py
+│   │   │   ├── loggerJPJ.py
+│   │   │   ├── out_logger.txt
+│   │   │   ├── outfile1.txt
+│   │   │   ├── outfile2.txt
+│   │   │   ├── outNEW_logger.txt
+│   │   │   ├── reg_ex_argloop.py
+│   │   │   └── TLP_logger2_mean.py
+│   │   ├── week11py
+│   │   │   ├── assign1.py
+│   │   │   ├── listout.txt
+│   │   │   ├── Manacus_vitellinus.gene.cds.fa
+│   │   │   ├── sample_passerina.fastq
+│   │   │   ├── seq_count.txt
+│   │   │   ├── seq_counter_by_key_valuelistlen.ipynb
+│   │   │   ├── SeqCtr_test.ipynb
+│   │   │   ├── seqctr.py
+│   │   │   ├── seqLenout.txt
+│   │   │   ├── SG_ref.fasta
+│   │   │   ├── Untitled.ipynb
+│   │   │   └── week11_assignment.ipynb
+│   │   ├── week12_python7_pandas
+│   │   │   ├── ~$python12_numpy_pandas.pptx
+│   │   │   ├── ~$python12_pandas.pptx
+│   │   │   ├── ~$pythonModules.pptx
+│   │   │   ├── assignment_6_python.ipynb
+│   │   │   ├── Bloom_etal_2018_Reduced_Dataset.csv
+│   │   │   ├── logfiles.tgz
+│   │   │   ├── muricata_pops_lat_long.csv
+│   │   │   ├── np_savetxt_test.txt
+│   │   │   ├── primer_python7_numpy_pandas_partI.ipynb
+│   │   │   ├── python12_numpy_pandas.pptx
+│   │   │   ├── pythonModules.pptx
+│   │   │   ├── sensor_chunks
+│   │   │   │   ├── merged_sensor_data.csv
+│   │   │   │   ├── sensor_chunk_01.csv
+│   │   │   │   ├── sensor_chunk_02.csv
+│   │   │   │   ├── sensor_chunk_03.csv
+│   │   │   │   ├── sensor_chunk_04.csv
+│   │   │   │   ├── sensor_chunk_05.csv
+│   │   │   │   ├── sensor_chunk_06.csv
+│   │   │   │   ├── sensor_chunk_07.csv
+│   │   │   │   ├── sensor_chunk_08.csv
+│   │   │   │   ├── sensor_chunk_09.csv
+│   │   │   │   ├── sensor_chunk_10.csv
+│   │   │   │   └── sensor-readings-with-temperature-light-humidity-every-5-minutes-at-8-locations-t.csv
+│   │   │   ├── state_plot04-01.png
+│   │   │   ├── states_covid.csv
+│   │   │   └── test.py
+│   │   ├── week13_python_pandasII
+│   │   │   ├── ~$python13_pandas.pptx
+│   │   │   ├── Bloom_etal_2018_Reduced_Dataset.csv
+│   │   │   ├── muricata_pops_lat_long.csv
+│   │   │   ├── primer_python8_pandas_demo.ipynb
+│   │   │   ├── primer_python8_pandas_matplotlibdemo.ipynb
+│   │   │   ├── python13_pandas.pptx
+│   │   │   └── states_covid.csv
+│   │   ├── week7
+│   │   │   ├── argtext.py
+│   │   │   ├── demo_lecture.ipynb
+│   │   │   ├── dnacal.py
+│   │   │   ├── if_else_play.py
+│   │   │   ├── outfile.txt
+│   │   │   ├── p1.out.txt
+│   │   │   ├── primer1.py
+│   │   │   ├── primer2.py
+│   │   │   ├── primer3.py
+│   │   │   ├── proteincalc.py
+│   │   │   ├── python2_assignment.ipynb
+│   │   │   ├── Untitled.ipynb
+│   │   │   └── Untitled1.ipynb
+│   │   ├── week8_py
+│   │   │   ├── argtest.py
+│   │   │   ├── filetowrite.txt
+│   │   │   ├── flies.py
+│   │   │   ├── flies.txt
+│   │   │   ├── gc_calc.py
+│   │   │   ├── gc_length_out.txt
+│   │   │   ├── GCcalcout.txt
+│   │   │   ├── genenames.py
+│   │   │   ├── genenames.txt
+│   │   │   ├── hw3_3_OUT.txt
+│   │   │   ├── Marrus_claudanielis.txt
+│   │   │   ├── no60_intron_IME_data.fasta
+│   │   │   ├── Nseclist.txt
+│   │   │   ├── out2.txt
+│   │   │   ├── outfliesA.txt
+│   │   │   ├── outseqinfo.txt
+│   │   │   ├── outtest.txt
+│   │   │   ├── prob1.py
+│   │   │   ├── project writeup.docx
+│   │   │   ├── python_assignment3.ipynb
+│   │   │   ├── python_assignment3[92].ipynb
+│   │   │   ├── test.py
+│   │   │   └── Untitled.ipynb
+│   │   └── week9_py
+│   │       ├── CHR1_5_ygenome.txt
+│   │       ├── ex_regex.py
+│   │       ├── Kay_wk_9.txt
+│   │       ├── Manacus_vitellinus.gene.cds.fa
+│   │       ├── reg_ex_play.py
+│   │       ├── regex_out.txt
+│   │       ├── rest_cut_counter.html
+│   │       ├── rest_cut_counter.ipynb
+│   │       ├── rest_cut_counter.py
+│   │       ├── SSR_harvester.html
+│   │       ├── SSR_harvester.ipynb
+│   │       ├── SSR_harvester.py
+│   │       ├── SSR_harvester2Linesatatime.py
+│   │       ├── SSR_out.txt
+│   │       ├── SSR_test.py
+│   │       ├── taeda_unigenes.fasta
+│   │       ├── TBweek9assignment.py
+│   │       ├── test.fa
+│   │       ├── Untitled.ipynb
+│   │       └── yeast_genome.gff
+│   ├── science.txt
+│   ├── shell_script_work
+│   │   ├── 1000rand.txt
+│   │   ├── bash_scripting_examples
+│   │   │   ├── cat_genome.gff
+│   │   │   ├── colias_barcodes.csv
+│   │   │   ├── cut_column3.sh
+│   │   │   ├── dork_genome.gff
+│   │   │   ├── file_preview.sh
+│   │   │   ├── grouse_barcodes_unix.csv
+│   │   │   ├── grouse_barcodes.csv
+│   │   │   ├── mac2unix_batch_annotated.sh
+│   │   │   ├── mac2unix_batch.sh
+│   │   │   ├── mac2unix.sh
+│   │   │   ├── sample_log_files
+│   │   │   │   ├── 1901302108_H7_D_13.txt.txt
+│   │   │   │   ├── 1901302108_H7_D_14.txt.txt
+│   │   │   │   ├── 1901302109_H7_S_14.txt.txt
+│   │   │   │   ├── 1901302110_H13_S_14.txt.txt
+│   │   │   │   ├── 1901302115_H1_S_14.txt.txt
+│   │   │   │   ├── 1901302203_H7_S_13.txt.txt
+│   │   │   │   ├── 1901302214_H19_D_14.txt.txt
+│   │   │   │   ├── 1901302217_H18_D_14.txt.txt
+│   │   │   │   ├── mac2unix_batch.sh
+│   │   │   │   ├── unix_1901302108_H7_D_13.txt.txt
+│   │   │   │   ├── unix_1901302108_H7_D_14.txt.txt
+│   │   │   │   ├── unix_1901302109_H7_S_14.txt.txt
+│   │   │   │   ├── unix_1901302110_H13_S_14.txt.txt
+│   │   │   │   ├── unix_1901302115_H1_S_14.txt.txt
+│   │   │   │   ├── unix_1901302203_H7_S_13.txt.txt
+│   │   │   │   ├── unix_1901302214_H19_D_14.txt.txt
+│   │   │   │   └── unix_1901302217_H18_D_14.txt.txt
+│   │   │   ├── test.txt
+│   │   │   ├── unixendings_colias_barcodes.csv
+│   │   │   ├── unixendings_grouse_barcodes.csv
+│   │   │   └── yeast_genome.gff
+│   │   ├── intro_scripts
+│   │   │   ├── simple_ship_script.sh
+│   │   │   ├── simple1.sh
+│   │   │   ├── simple2.sh
+│   │   │   └── simple3.sh
+│   │   └── week4_assignment
+│   │       └── unix_assignment4.md
+│   ├── ssh_access_2025
+│   │   └── accounts.md
+│   ├── supplementary_materials
+│   │   ├── chaps_1_3.pdf
+│   │   ├── hall_salipante_retraction07.pdf
+│   │   ├── hall_salipante2008.pdf
+│   │   ├── noble09.pdf
+│   │   ├── parchman_unix_tool_guide.docx
+│   │   ├── Pta.seq.uniq
+│   │   ├── python_tutorials_etc.txt
+│   │   ├── reg_ex_cheat_sheet.html
+│   │   ├── regexp.png
+│   │   ├── rmarkdown-cheatsheet.pdf
+│   │   ├── simple.sh
+│   │   ├── unix_buerkle_guide.pdf
+│   │   └── unix_cheat_sheet.pdf
+│   ├── Syllabus_BIOL792_DataScienceI.pdf
+│   ├── test.txt
+│   ├── TLPComputing and Data Science Classes.xlsx
+│   ├── week3stuff
+│   │   └── science.txt
+│   └── week8_python3
+│       ├── assignment_python3.md
+│       ├── filetowrite.txt
+│       ├── flies.txt
+│       ├── genenames.txt
+│       ├── no60_intron_IME_data.fasta.gz
+│       ├── outfile.txt
+│       ├── python_3_primer.ipynb
+│       ├── python_3_primer.md
+│       ├── PythonLesson2_Chapter9.pdf
+│       ├── PythonLesson3_Chapter10.docx
+│       └── week8_python3.pptx
+├── evol_genomics
+│   └── genomics.tex
+├── final_grade_calculations_canvas_lowdropped.csv
+├── foundations_papers
+│   ├── brawandetal_2014.pdf
+│   ├── ellegren2014.pdf
+│   └── kawakamietal2014.pdf
+├── GAIN
+│   ├── ~$dule_5_preliminary_information.docx
+│   ├── email.list.txt
+│   ├── GAIN Scholars Cohort Information.xlsx
+│   ├── lectures
+│   │   ├── ~$GAIN_UnixPython_Day1.pptx
+│   │   ├── ~$GAIN_UnixPython_Day2.pptx
+│   │   ├── ~$GAIN_UnixPython_Day3.pptx
+│   │   ├── ~$GAIN_UnixPython_Day4.pptx
+│   │   ├── ~$week5_chap7_python_first_steps.pptx
+│   │   ├── GAIN_UnixPython_Day1.pptx
+│   │   ├── GAIN_UnixPython_Day2.pptx
+│   │   ├── GAIN_UnixPython_Day3.pptx
+│   │   ├── GAIN_UnixPython_Day4.pptx
+│   │   ├── python4_old.pptx
+│   │   ├── week1.pptx
+│   │   ├── week1b.pptx
+│   │   ├── week2.pptx
+│   │   ├── week3.pptx
+│   │   ├── week5_chap7_python_first_steps.pptx
+│   │   └── week7_python_chap9.pptx
+│   ├── module_5_preliminary_information.docx
+│   ├── module_5_preliminary_information.pdf
+│   └── practice_scripts
+│       ├── day_
+│       ├── day_four
+│       │   ├── gc_calc.py
+│       │   ├── gc_length_out.txt
+│       │   ├── genenames.txt
+│       │   ├── no60_intron_IME_data.fasta
+│       │   ├── rest_cut_counter.py
+│       │   └── taeda_unigenes.fasta
+│       ├── day_one
+│       ├── day_three
+│       │   ├── no60_intron_IME_data.fasta
+│       │   ├── outfile.txt
+│       │   ├── practice_python2A.py
+│       │   ├── practice_python2B.py
+│       │   └── python2_practice_scriptsA.md
+│       └── day_two
+│           ├── first_python.py
+│           ├── first_python[Conflict].py
+│           ├── firsttry.py
+│           ├── hw.py
+│           ├── math_play_1.py
+│           └── scalar_play.py
+├── GAIN2022
+│   ├── day1.pptx
+│   ├── day3.pptx
+│   └── rmd_play
+│       ├── city_df.csv
+│       ├── markdown_demo_live.html
+│       └── markdown_demo_live.Rmd
+├── GAIN23
+│   ├── activity_outline.txt
+│   ├── GAIN_UnixPython_Day1.pptx
+│   ├── GAIN_UnixPython_Day2.pptx
+│   ├── jupyter_demo.ipynb
+│   ├── rmd_play
+│   │   ├── city_df.csv
+│   │   ├── markdown_demo_live.html
+│   │   ├── markdown_demo_live.pdf
+│   │   └── markdown_demo_live.Rmd
+│   └── Untitled.ipynb
+├── genetics
+│   ├── 2014
+│   │   ├── grades
+│   │   │   ├── DG_attendance
+│   │   │   │   ├── ADAMS_WED_4pm_DG.xlsx
+│   │   │   │   ├── ANGELADENARDO_TUES_9am_DG.xlsx
+│   │   │   │   ├── Brown_MON_3_4_DG.xls..gsheet
+│   │   │   │   ├── DG_attendance.xlsx
+│   │   │   │   ├── Ebar_Mon_4-5_DG.xlsx
+│   │   │   │   ├── EOFF_WEDS_2-3.xlsx
+│   │   │   │   ├── Friedman_WED_12_1_DG.xlsx
+│   │   │   │   ├── KOONTZ_MON_11_DG.xlsx
+│   │   │   │   ├── NICOLE_TOMIMATSU_TUES_230_DG.xlsx
+│   │   │   │   ├── ROGERS_TUE_11_DG.xlsx
+│   │   │   │   ├── Scott_Mon_11_DG.xlsx
+│   │   │   │   ├── Shrake_TUE_4_5_DG.xlsx
+│   │   │   │   └── Wydermyer_TR_10-11_DG.xlsx
+│   │   │   ├── Exam_grades.csv
+│   │   │   ├── Exam_grades4_21_14.csv
+│   │   │   ├── Exam_grades5_1_14_drop.csv
+│   │   │   ├── Exam_grades5_1_14.csv
+│   │   │   ├── exam1_grade_distribution.csv
+│   │   │   ├── exam1_grade_distribution.pdf
+│   │   │   ├── Exam1_grades.csv
+│   │   │   ├── exam2_dist
+│   │   │   ├── exam2_dist.pdf
+│   │   │   ├── exam3_hist.pdf
+│   │   │   ├── extra_points.txt
+│   │   │   ├── MGEN.csv
+│   │   │   └── SP14_300_FINALgrades.csv
+│   │   └── lectures
+│   │       ├── chapt_18_genomics_final.pdf
+│   │       ├── chapt_18_genomics_final.pptx
+│   │       ├── chapt_18_genomics.pptx.gz
+│   │       ├── critchfield90.ppt
+│   │       ├── DNAi_PCR-lg.mov
+│   │       ├── DNAi_transcription_vo2-lg.mov
+│   │       ├── Exam1Review_S14.pptx
+│   │       ├── exam2_review.pdf
+│   │       ├── exam2_review.pptx
+│   │       ├── exam3_review.pdf
+│   │       ├── exam3_review.pptx
+│   │       ├── final_review.pptx
+│   │       ├── final_reviewA.pdf
+│   │       ├── final_reviewA.pptx
+│   │       ├── Lect_1.pdf
+│   │       ├── Lect_1.ppt
+│   │       ├── lect_11_12_chap5.pdf
+│   │       ├── lect_11_12_chap5.ppt
+│   │       ├── lect_11_12.pptx
+│   │       ├── lect_12_chap13.pdf
+│   │       ├── lect_12_chap13.pptx
+│   │       ├── lect_14_15_chap5.ppt
+│   │       ├── lect_15_chap11.pdf
+│   │       ├── lect_15_chap11.ppt
+│   │       ├── lect_15_chap11b.ppt
+│   │       ├── lect_16_chap13.pdf
+│   │       ├── lect_16_chap7.pdf
+│   │       ├── lect_16_chap7.ppt
+│   │       ├── lect_17_chap8_9.pdf
+│   │       ├── lect_17_chap8_9.ppt
+│   │       ├── Lect_2_3_Chap_1.pdf
+│   │       ├── Lect_2_3_Chap_1.ppt
+│   │       ├── Lect_2.ppt
+│   │       ├── lect_3-5_chap2.pdf
+│   │       ├── lect_3-5_chap2.ppt
+│   │       ├── lect_3-5_chap2.pptx
+│   │       ├── lect_6_7_chap3.pdf
+│   │       ├── lect_6_7_chap3.pptx
+│   │       ├── lect_9_10.pdf
+│   │       ├── lect_9_10.pptx
+│   │       ├── lect_chap14_15.pdf
+│   │       ├── lect_chap14_15.ppt
+│   │       ├── lect_chap22.pdf
+│   │       ├── lect_chap22.ppt
+│   │       └── lect19_chap14_14.ppt
+│   ├── 2024_groups
+│   │   ├── F24 GeneticsDGapp.docx
+│   │   ├── S24 DGappBIOL300.docx
+│   │   └── S24BIOL300ReturningApplication_Optional.docx
+│   ├── 2025_groups
+│   │   ├── ~$ring2025GeneticsApp.docx
+│   │   ├── apps
+│   │   │   └── Filip Eval.docx
+│   │   ├── interviewNotes.txt
+│   │   ├── mentor_meetings_2.txt
+│   │   ├── S25GeneticsApp.docx
+│   │   ├── S25GeneticsApp.pdf
+│   │   ├── S25LeadershipApp.pdf
+│   │   ├── S25ReturningGeneticsApp.docx
+│   │   └── spring2025GeneticsApp.docx
+│   ├── 2026_groups
+│   │   └── 2_22_notes.txt
+│   ├── emaillist_SP23
+│   ├── exams
+│   │   ├── 2014
+│   │   │   ├── ~$am1_S14_Parchman_key_alternate-1.docx
+│   │   │   ├── ~$am1_S14_Parchman_key-1.docx
+│   │   │   ├── 14_22_testbank.docx
+│   │   │   ├── Exam 3 Fall 2013 v2.docx
+│   │   │   ├── exam_3_practice_test_key.docx
+│   │   │   ├── exam_3_practice_test.docx
+│   │   │   ├── Exam_3_question_bank.docx
+│   │   │   ├── Exam1_S14_Parchman_alternate.docx
+│   │   │   ├── Exam1_S14_Parchman_key_alternate-1.docx
+│   │   │   ├── Exam1_S14_Parchman_key-1.docx
+│   │   │   ├── Exam1_S14_Parchman_key.docx
+│   │   │   ├── Exam1_S14_Parchman.docx
+│   │   │   ├── Exam1_S14.docx
+│   │   │   ├── Exam2_S14_Parchman_key_final.docx
+│   │   │   ├── Exam2_S14_Parchman_key.docx
+│   │   │   ├── Exam2_S14_Parchman_question_bank.docx
+│   │   │   ├── Exam2_S14_Parchman.docx
+│   │   │   ├── Exam3_example_key.docx
+│   │   │   ├── Exam3_example.docx
+│   │   │   ├── Exam3_S14_Parchman_alt_key.docx
+│   │   │   ├── Exam3_S14_Parchman_alt.docx
+│   │   │   ├── Exam3_S14_Parchman_key.docx
+│   │   │   ├── Exam3_S14_Parchman.docx
+│   │   │   ├── FINAL_S14_Parchman_key.docx
+│   │   │   └── FINAL_S14_Parchman.docx
+│   │   ├── 2015
+│   │   │   ├── deletion_map_exam3.pdf
+│   │   │   ├── deletion_map_exam3.pptx
+│   │   │   ├── Exam1_S14_Parchman_alternate.docx
+│   │   │   ├── Exam1_S15_Parchman_alternate_key.docx
+│   │   │   ├── Exam1_S15_Parchman_alternate.docx
+│   │   │   ├── Exam1_S15_Parchman_key.docx
+│   │   │   ├── Exam1_S15_Parchman.docx
+│   │   │   ├── Exam2_S15_Parchman_final.docx
+│   │   │   ├── Exam2_S15_Parchman_key_final.docx
+│   │   │   ├── Exam2_S18_Parchman_key_final.docx
+│   │   │   ├── Exam3_S15_Parchman_alt_key.docx
+│   │   │   ├── Exam3_S15_Parchman_alt.docx
+│   │   │   ├── Exam3_S15_Parchman_key.docx
+│   │   │   ├── Exam3_S15_Parchman.docx
+│   │   │   ├── FINAL_S15_Parchman_alt.docx
+│   │   │   ├── FINAL_S15_Parchman_key.docx
+│   │   │   ├── FINAL_S15_Parchman.docx
+│   │   │   ├── gel_quest.pdf
+│   │   │   └── gel_quest.pptx
+│   │   ├── 2016
+│   │   │   ├── ~$am2_S16_key.docx
+│   │   │   ├── deletion_map_exam3.pdf
+│   │   │   ├── deletion_map_exam3.pptx
+│   │   │   ├── Exam_3_question_bank.docx
+│   │   │   ├── Exam1_S16_Parchman_alternate_key.docx
+│   │   │   ├── Exam1_S16_Parchman_alternate.docx
+│   │   │   ├── Exam1_S16_Parchman_key.docx
+│   │   │   ├── Exam1_S16_Parchman.docx
+│   │   │   ├── Exam2_S16_key.docx
+│   │   │   ├── Exam2_S16_parchman.docx
+│   │   │   ├── Exam3_S15_Parchman_alt_key.docx
+│   │   │   ├── Exam3_S15_Parchman_alt.docx
+│   │   │   ├── Exam3_S15_Parchman.docx
+│   │   │   ├── Exam3_S16_Parchman_alt_key.docx
+│   │   │   ├── Exam3_S16_Parchman_alt.docx
+│   │   │   ├── Exam3_S16_Parchman_key.docx
+│   │   │   ├── Exam3_S16_Parchman.docx
+│   │   │   ├── FINAL_S15_Parchman_key.docx
+│   │   │   ├── FINAL_S16_Parchman_key.docx
+│   │   │   ├── FINAL_S16_Parchman.docx
+│   │   │   └── S16Biol300ExamSANDSTROM.pdf
+│   │   ├── 2017
+│   │   │   ├── ~$am2_S17_key.docx
+│   │   │   ├── Exam1_S17_Parchman_alternate_key.docx
+│   │   │   ├── Exam1_S17_Parchman_alternate.docx
+│   │   │   ├── Exam1_S17_Parchman_key.docx
+│   │   │   ├── Exam1_S17_Parchman.docx
+│   │   │   ├── Exam2_S17_key.docx
+│   │   │   ├── Exam2_S17_parchman.docx
+│   │   │   ├── Exam3_S17_key.docx
+│   │   │   ├── Exam3_S17.docx
+│   │   │   ├── FINAL_old_eg.docx
+│   │   │   ├── FINAL_old_key.docx
+│   │   │   ├── FINAL_S17_Parchman_key.docx
+│   │   │   └── FINAL_S17_Parchman.docx
+│   │   ├── 2018
+│   │   │   ├── ~$am1_S18_Parchman_key.docx
+│   │   │   ├── ~$am1_sample.docx
+│   │   │   ├── Exam1_S18_Parchman_alternate_key.docx
+│   │   │   ├── Exam1_S18_Parchman_alternate.docx
+│   │   │   ├── Exam1_S18_Parchman_key.docx
+│   │   │   ├── Exam1_S18_Parchman.docx
+│   │   │   ├── Exam1_sample_key.docx
+│   │   │   ├── Exam1_sample.docx
+│   │   │   ├── Exam2_S18_alternate_key.docx
+│   │   │   ├── Exam2_S18_parchman_alternate.docx
+│   │   │   ├── Exam2_S18_Parchman_final.docx
+│   │   │   ├── Exam2_S18_Parchman_key_final.docx
+│   │   │   ├── Exam3_S18_Parchman_key.docx
+│   │   │   ├── Exam3_S18_Parchman.docx
+│   │   │   ├── FINAL_old_key.docx
+│   │   │   ├── FINAL_S18_Parchman_key.docx
+│   │   │   └── FINAL_S18_Parchman.docx
+│   │   ├── 2019
+│   │   │   ├── exam_3_practice_test_key.docx
+│   │   │   ├── Exam1_S19_Parchman_key.docx
+│   │   │   ├── Exam1_S19_Parchman.docx
+│   │   │   ├── Exam2_S19_Parchman_key.docx
+│   │   │   ├── Exam2_S19_Parchman.docx
+│   │   │   ├── Exam3_S19_key.docx
+│   │   │   ├── Exam3_S19.docx
+│   │   │   ├── FINAL_old_key.docx
+│   │   │   ├── FINAL_S19_Parchman_key.docx
+│   │   │   ├── FINAL_S19_Parchman_keyA.docx
+│   │   │   ├── FINAL_S19_Parchman.docx
+│   │   │   └── FINAL_S19_ParchmanA.docx
+│   │   ├── 2020
+│   │   │   ├── ~$am2_S20_key.docx
+│   │   │   ├── ~$am2updated_S20_key.docx
+│   │   │   ├── ~$am3_SP20_Parchman_key.docx
+│   │   │   ├── alternate_exam1_S17_Parchman.docx
+│   │   │   ├── alternate_Exam1_S19_Parchman_key.docx
+│   │   │   ├── Exam1_S20_Parchman_key.docx
+│   │   │   ├── Exam1_S20_Parchman.docx
+│   │   │   ├── Exam1_S20_Parchman.pdf
+│   │   │   ├── Exam2_S20_key.docx
+│   │   │   ├── Exam2updated_S20_key.docx
+│   │   │   ├── Exam2updated_S20.docx
+│   │   │   ├── Exam2updated_S20.pdf
+│   │   │   ├── Exam3_SP20_Parchman_key.docx
+│   │   │   ├── EXAMPLEExam2_S19_Parchman_key.docx
+│   │   │   ├── EXAMPLEExam2_S19_Parchman.docx
+│   │   │   ├── practice_exam1_key.docx
+│   │   │   └── practice_exam1.docx
+│   │   ├── 2021
+│   │   │   ├── ~$am3_copy.docx
+│   │   │   ├── activity_log_example-1.png
+│   │   │   ├── activity_log_example-2.png
+│   │   │   ├── activity_log_example.png
+│   │   │   ├── exam1_copy.docx
+│   │   │   ├── exam1_instructions.docx
+│   │   │   ├── exam2_copy.docx
+│   │   │   ├── exam2_instructions.docx
+│   │   │   ├── exam3_copy.docx
+│   │   │   ├── exam3_instructions.docx
+│   │   │   ├── finalExam_instructions.docx
+│   │   │   ├── Taking_a_QuizExam_in_Canvas-1.pdf
+│   │   │   ├── Taking_a_QuizExam_in_Canvas-2.pdf
+│   │   │   ├── Taking_a_QuizExam_in_Canvas.pdf
+│   │   │   └── Zoom_exam_procedure.docx
+│   │   ├── new_questions
+│   │   │   ├── burdo
+│   │   │   │   ├── Genetics Exam 2 Test Questions.docx
+│   │   │   │   ├── Genetics Exam 3 Test Questions.docx
+│   │   │   │   └── Genetics Exam 4 Sample test questions.docx
+│   │   │   └── paiva
+│   │   │       ├── BIO 300 Chatpers 1, 2, 14, 15, 18, 22.docx
+│   │   │       ├── BIO 300 Example Test (11, 13, 7, 8, 9) Key.docx
+│   │   │       ├── BIO 300 Example Test (11, 13, 7, 8, 9).docx
+│   │   │       ├── BIO 300 Example Test (3,4,5) Answer Key.docx
+│   │   │       ├── BIO 300 Example Test (3,4,5).docx
+│   │   │       ├── BIO 300 Master Doc.pdf
+│   │   │       └── BIO 300 Test 1+ Final Answers .docx
+│   │   ├── SP2022
+│   │   │   ├── ~$am1_instructions.docx
+│   │   │   ├── ~$am2updated_S22_key.docx
+│   │   │   ├── ~$am3_S19_key.docx
+│   │   │   ├── ~$am3_S22_key.docx
+│   │   │   ├── ~$om_exam_procedure_S22 Parchman.docx
+│   │   │   ├── exam1_copy_key.docx
+│   │   │   ├── exam1_instructions.docx
+│   │   │   ├── exam1_todo.txt
+│   │   │   ├── exam2_copy_key.docx
+│   │   │   ├── Exam2_S22_alternate_key.docx
+│   │   │   ├── Exam2_S22_alternate.docx
+│   │   │   ├── Exam2updated_S22_key.docx
+│   │   │   ├── Exam2updated_S22.docx
+│   │   │   ├── Exam3_S19_key.docx
+│   │   │   ├── Exam3_S22_key.docx
+│   │   │   ├── Exam3_S22.docx
+│   │   │   ├── FINAL_S19_Parchman_key.docx
+│   │   │   ├── FINAL_S19_Parchman.docx
+│   │   │   ├── FINAL_S22_Parchman_key.docx
+│   │   │   ├── FINAL_S22_Parchman.docx
+│   │   │   └── Zoom_exam_procedure_S22 Parchman.docx
+│   │   ├── SP2023
+│   │   │   ├── ~$am1_S23_Parchman_.docx
+│   │   │   ├── ~$NAL_S23_Parchman_key.docx
+│   │   │   ├── exam_3_practice_test_key.docx
+│   │   │   ├── exam_3_practice_test.docx
+│   │   │   ├── Exam1_S23_Parchman_key.docx
+│   │   │   ├── Exam1_S23_Parchman_keyB.docx
+│   │   │   ├── Exam1_S23_Parchman.docx
+│   │   │   ├── Exam2_S22_alternate_key.docx
+│   │   │   ├── Exam2Parchman_S23_key.docx
+│   │   │   ├── Exam2Parchman_S23.docx
+│   │   │   ├── Exam2updated_S22_key.docx
+│   │   │   ├── Exam3_S23_key.docx
+│   │   │   ├── Exam3_S23.docx
+│   │   │   ├── EXAMPLEExam2_S19_Parchman_key.docx
+│   │   │   ├── EXAMPLEExam2_S19_Parchman.docx
+│   │   │   ├── FINAL_S23_Parchman_BLANK.docx
+│   │   │   └── FINAL_S23_Parchman_key.docx
+│   │   ├── SP2024
+│   │   │   ├── ~$am1_S24_Parchman_key.docx
+│   │   │   ├── ~$am2Parchman_S24_key.docx
+│   │   │   ├── ~$am2Parchman_S24.docx
+│   │   │   ├── Exam1_S24_Parchman_key.docx
+│   │   │   ├── Exam1_S24_Parchman_keyB.docx
+│   │   │   ├── Exam1_S24_Parchman.docx
+│   │   │   ├── Exam2Parchman_S24_key.docx
+│   │   │   ├── Exam2Parchman_S24.docx
+│   │   │   ├── Exam3_S24_key.docx
+│   │   │   ├── Exam3_S24.docx
+│   │   │   ├── FINAL_S24_Parchman_BLANK.docx
+│   │   │   └── FINAL_S24_Parchman_key.docx
+│   │   └── SP2026
+│   │       ├── ~$am1_S25_Parchman_key.docx
+│   │       ├── ~$am1_S25_Parchman.docx
+│   │       ├── ~$am2_S25_alternate_key.docx
+│   │       ├── ~$am3_S25.docx
+│   │       ├── ~$NAL_S25_Parchman_BLANK.docx
+│   │       ├── ~$NAL_S25_Parchman_key.docx
+│   │       ├── BIOL300_ParchmanExam3.docx
+│   │       ├── Chapter_12_13_20_exam_practice_key.docx
+│   │       ├── Chapter_12_13_20_exam_practice.docx
+│   │       ├── exam_3_practice_test_key.docx
+│   │       ├── exam_3_practice_test.docx
+│   │       ├── Exam1_S26_Parchman_key.docx
+│   │       ├── Exam1_S26_Parchman.docx
+│   │       ├── Exam2_S25_alternate_key.docx
+│   │       ├── Exam2_S25_alternate.docx
+│   │       ├── Exam2Parchman_S25_key.docx
+│   │       ├── Exam2Parchman_S25.docx
+│   │       ├── Exam2Parchman_S26_ALT.docx
+│   │       ├── Exam2Parchman_S26_key.docx
+│   │       ├── Exam2Parchman_S26.docx
+│   │       ├── Exam2Parchman_S26.pdf
+│   │       ├── Exam3_S26_alternate.docx
+│   │       ├── Exam3_S26_key.docx
+│   │       ├── Exam3_S26.docx
+│   │       ├── FINAL_S25_Parchman_key.docx
+│   │       ├── FINAL_S26_Parchman_key.docx
+│   │       └── FINAL_S26_Parchman.docx
+│   ├── extra_materials
+│   │   ├── glenn_2011 copy.pdf
+│   │   ├── hellenthal_etal_human_admixture.pdf
+│   │   ├── Koboldtetal2013 copy.pdf
+│   │   ├── lerner_etal_2011.pdf
+│   │   ├── media
+│   │   ├── ossowskietal_2010.pdf
+│   │   ├── pearson_text_chap1_2.pdf
+│   │   ├── Stapley_etal_2017_ProcRSoc.pdf
+│   │   └── Whole-genome_sequence_analysis_shows_that_two_ende.pdf
+│   ├── general_organization
+│   │   ├── 2022emaillist.txt
+│   │   ├── emailtoBIOL300prestart.docx
+│   │   ├── organizational_notes.txt
+│   │   └── textbook_options.xlsx
+│   ├── genetics_extra_problems
+│   │   ├── chap1_extra_problems.html
+│   │   ├── Chapter 1 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 1 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 10 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 10 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 12 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 12 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 2 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 2 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 20 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 20 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 3 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 3 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 4 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 4 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 5 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 5 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 7 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 7 Extra Problems_Sanders.pdf
+│   │   ├── Chapter 8-9 Extra Problems_Sanders_key.pdf
+│   │   └── Chapter 8-9 Extra Problems_Sanders.pdf
+│   ├── grades
+│   │   ├── 2014
+│   │   │   ├── DG_attendance
+│   │   │   │   ├── ADAMS_WED_4pm_DG.xlsx
+│   │   │   │   ├── ANGELADENARDO_TUES_9am_DG.xlsx
+│   │   │   │   ├── Brown_MON_3_4_DG.xls..gsheet
+│   │   │   │   ├── DG_attendance.xlsx
+│   │   │   │   ├── Ebar_Mon_4-5_DG.xlsx
+│   │   │   │   ├── EOFF_WEDS_2-3.xlsx
+│   │   │   │   ├── Friedman_WED_12_1_DG.xlsx
+│   │   │   │   ├── KOONTZ_MON_11_DG.xlsx
+│   │   │   │   ├── NICOLE_TOMIMATSU_TUES_230_DG.xlsx
+│   │   │   │   ├── ROGERS_TUE_11_DG.xlsx
+│   │   │   │   ├── Scott_Mon_11_DG.xlsx
+│   │   │   │   ├── Shrake_TUE_4_5_DG.xlsx
+│   │   │   │   └── Wydermyer_TR_10-11_DG.xlsx
+│   │   │   ├── Exam_grades.csv
+│   │   │   ├── Exam_grades4_21_14.csv
+│   │   │   ├── Exam_grades5_1_14_drop.csv
+│   │   │   ├── Exam_grades5_1_14.csv
+│   │   │   ├── exam1_grade_distribution.csv
+│   │   │   ├── exam1_grade_distribution.pdf
+│   │   │   ├── Exam1_grades.csv
+│   │   │   ├── exam2_dist
+│   │   │   ├── exam2_dist.pdf
+│   │   │   ├── exam3_hist.pdf
+│   │   │   ├── extra_points.txt
+│   │   │   ├── MGEN.csv
+│   │   │   └── SP14_300_FINALgrades.csv
+│   │   ├── 2015
+│   │   │   ├── allexams_finalgrades_after_drop.csv
+│   │   │   ├── allexams_finalgrades.csv
+│   │   │   ├── clickpts.csv
+│   │   │   ├── exam_one_hist.pdf
+│   │   │   ├── exam2_dist.pdf
+│   │   │   ├── Exam3_finalgrades_forR.csv
+│   │   │   ├── Exam3_finalgrades.csv
+│   │   │   ├── exam3.pdf
+│   │   │   ├── FINAL_grades.csv
+│   │   │   ├── gc_2152BIOL300__1001_fullgc_2015-05-04-10-42-33.txt
+│   │   │   ├── gc_2152BIOL300__1001_fullgc_2015-05-04-10-42-33.xls.csv
+│   │   │   ├── grades_S15.csv
+│   │   │   ├── MGgenscores_2015.csv
+│   │   │   ├── Parchman_DG_Final_Attendance .xlsx
+│   │   │   ├── ParchmanExam2.csv
+│   │   │   ├── ParchmanExam2.xls
+│   │   │   └── ParchmanFinalGrades.csv
+│   │   ├── 2016
+│   │   │   ├── all_grades.csv
+│   │   │   ├── all_grades.txt
+│   │   │   ├── early_MG_EX.txt
+│   │   │   ├── EC attendance.xlsx
+│   │   │   ├── exam1_distribution.pdf
+│   │   │   ├── exam1_grades.csv
+│   │   │   ├── exam2_grades.csv
+│   │   │   ├── exam2_grades.pdf
+│   │   │   ├── final_grades.csv
+│   │   │   ├── gc_2162BIOL300__1001_fullgc_2016-05-13-15-00-01.csv
+│   │   │   ├── gc_2162BIOL300__1001_fullgc_2016-05-13-15-00-01.txt
+│   │   │   ├── gc_2162BIOL300__1001_fullgc_2016-05-13-15-13-51.txt
+│   │   │   ├── grades_4_12_forR.csv
+│   │   │   ├── grades_4_12.csv
+│   │   │   ├── grades_exam1_2.csv
+│   │   │   ├── grades_exam3.pdf
+│   │   │   ├── grades_wdrop.csv
+│   │   │   ├── LC_grades.xlsx
+│   │   │   └── MG_grades.csv
+│   │   ├── 2017
+│   │   │   ├── 05_Apr_19_34_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 16_May_09_34_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 18_Feb_16_33_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 18_May_12_17_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 18_May_21_00_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 20_Mar_12_55_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 21_May_10_19_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 23_Apr_20_43_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── DG_attendance17.xlsx
+│   │   │   ├── exam1_dist.pdf
+│   │   │   ├── exam2_dist
+│   │   │   ├── exam2_dist.pdf
+│   │   │   ├── exam3_dist.pdf
+│   │   │   ├── exam3_plot.csv
+│   │   │   ├── F17_exam1.csv
+│   │   │   ├── final_grades_S17.csv
+│   │   │   ├── final.csv
+│   │   │   ├── honors
+│   │   │   │   ├── BIOL 300 Honors Research Paper_Savannah.docx
+│   │   │   │   ├── CRUZ GENETICS RESEARCH PAPER.docx
+│   │   │   │   ├── Octaviono2017.docx
+│   │   │   │   └── Torres_Gonzalez.txt
+│   │   │   ├── mastering_genetics_5_14_17.csv
+│   │   │   ├── MGEN_FINAL_SP17.csv
+│   │   │   ├── mgen_throughexam2.csv
+│   │   │   ├── mgen_thru_last_week.csv
+│   │   │   ├── SP17_exam2_only.csv
+│   │   │   ├── SP17_exam2.xlsx
+│   │   │   ├── SP17_FINALGRADES.csv
+│   │   │   └── temp.xls
+│   │   ├── 2018
+│   │   │   ├── 2018_DG_attendance_pts copy.xlsx
+│   │   │   ├── 2018_DG_attendance_pts.xlsx
+│   │   │   ├── 2018-02-18T2006_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2018-03-20T1137_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2018-03-20T1137_Grades-BIOL_300.1001_Principles_of_Genetics.txt
+│   │   │   ├── 2018-04-19T1249_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2018-05-09T0808_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2018-05-11T1514_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2018-05-13T2032_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── exam1_dist.pdf
+│   │   │   ├── exam1.csv
+│   │   │   ├── exam1.xlsx
+│   │   │   ├── exam2.csv
+│   │   │   ├── exam2hist.pdf
+│   │   │   ├── exam3.pdf
+│   │   │   ├── exam3scoresonly.csv
+│   │   │   ├── exam3scoresonly.xlsx
+│   │   │   ├── final_grade_check.csv
+│   │   │   ├── final_temp.xlsx
+│   │   │   ├── honors
+│   │   │   │   ├── CRUZ Biol 300 Honors in The Major.docx
+│   │   │   │   └── Parkinson's Essay PDF.pdf
+│   │   │   ├── MG_final_grades.csv
+│   │   │   ├── MGENCCNG75882-20180509-Scores.csv
+│   │   │   ├── prefinal_ave.csv
+│   │   │   ├── temp_final_check.xlsx
+│   │   │   └── velanis_LC.csv
+│   │   ├── 2019
+│   │   │   ├── 2019-02-16T1355_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2019-03-15T1141_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2019-03-27T2011_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2019-04-22T1241_Grades-BIOL_300.1001_Principles_of_Genetics_KU.csv
+│   │   │   ├── 2019-05-09T1733_Grades-BIOL_300.1001_Principles_of_Genetics_KU2.csv
+│   │   │   ├── 2019-05-09T1733_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2019-05-15T1519_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── DG_final_attendance.xlsx
+│   │   │   ├── exam3_dist.pdf
+│   │   │   ├── exam3_g.csv
+│   │   │   ├── final_examR.csv
+│   │   │   ├── final_examR.xlsx
+│   │   │   ├── final_gradeR.csv
+│   │   │   ├── final_gradeR.xlsx
+│   │   │   ├── FINALGRADES_working.xlsx
+│   │   │   └── MGENCCNG81465-20190512-Scores.csv
+│   │   ├── 2020
+│   │   │   ├── 2020-02-15T1521_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2020-05-02T1056_Grades-2020_Spring_-_BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2020-05-05T1756_Grades-2020_Spring_-_BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2020-05-12T1041_Grades-2020_Spring_-_BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── copied_recalculating_exam2and3tobeoutof100.xlsx
+│   │   │   ├── exam1_hist.pdf
+│   │   │   ├── exam2online.pdf
+│   │   │   ├── final_grades_spreadsheet_LG_lowestExamDropped.csv
+│   │   │   ├── final_grades_spreadsheet_LG_RedOut.csv
+│   │   │   ├── MGENCCNG0838245-20200508-Scores.csv
+│   │   │   ├── TLP_FINAL_GRADES_ALLBIOL300_SP2020.xlsx
+│   │   │   ├── TLP_MGENCCNG0838245-20200508-Scores.csv
+│   │   │   ├── TLPfinal_grades_spreadsheet_LG_lowestExamDropped.csv
+│   │   │   ├── tom_exam1grades.csv
+│   │   │   ├── tom_exam2grades.csv
+│   │   │   └── WFINALGRADE_2020-05-12T1438_Grades-2020_Spring_-_BIOL_300.1001_Principles_of_Genetics.csv
+│   │   ├── 2021
+│   │   │   ├── ~$sequencing_costs_bysampling_design.xlsx
+│   │   │   ├── 2021-02-18T1830_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-02-19T1829_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-03-02T1521_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-03-26T1726_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-04-18T1150_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-04-20T0659_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-04-28T1458_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-04-29T1421_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-05-06T1937_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-05-07T1300_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-05-07T1406_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-05-07T1557_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-05-11T1126_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2021-05-12T1842_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── DG_points_final.csv
+│   │   │   ├── DG_points.csv
+│   │   │   ├── DG_points.xlsx
+│   │   │   ├── exam_2.csv
+│   │   │   ├── exam1_grades.csv
+│   │   │   ├── exam1hist.pdf
+│   │   │   ├── exam2_hist.pdf
+│   │   │   ├── exam3_grade_dist.pdf
+│   │   │   ├── exam3.csv
+│   │   │   ├── final_exam.csv
+│   │   │   ├── FINAL_GRADES_CALC_MG.csv
+│   │   │   ├── FINAL_GRADES_CALC_plus4.csv
+│   │   │   ├── FINAL_GRADES_CALC_plus6.csv
+│   │   │   ├── FINAL_GRADES_CALC.csv
+│   │   │   ├── MG_makeups.docx
+│   │   │   ├── notes_on_final_grades.txt
+│   │   │   ├── parchman92342-20210507-Scores.csv
+│   │   │   └── sequencing_costs_bysampling_design.xlsx
+│   │   ├── 2022
+│   │   │   ├── 2022-02-13T1454_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-03-15T1216_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-04-14T0958_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-04-29T1315_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-05-01T1143_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-05-09T0927_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-05-10T1854_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2022-05-10T1906_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── exam1_grades.csv
+│   │   │   ├── exam1_histogram.pdf
+│   │   │   ├── exam2_grades.csv
+│   │   │   ├── exam3_grades.csv
+│   │   │   ├── exam3Hist.pdf
+│   │   │   ├── final_exam.csv
+│   │   │   ├── final_grades_wdrop.csv
+│   │   │   ├── final_grades.csv
+│   │   │   ├── MGparchman74121-20220509-Scores.csv
+│   │   │   └── U_2022-03-15T1216_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   ├── 2023
+│   │   │   ├── 2023-02-21T1856_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2023-03-24T1919_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2023-03-28T1548_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2023-04-21T1453_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2023-05-15T1833_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2023-05-17T1913_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2023-05-19T1444_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── exam_2_raw_percentage_AldoS.xlsx
+│   │   │   ├── exam_2_raw_percentage.csv
+│   │   │   ├── exam_2_raw_percentage.xlsx
+│   │   │   ├── exam_3_raw_percentage.csv
+│   │   │   ├── exam_3_raw_percentage.xlsx
+│   │   │   ├── exam1_hist.pdf
+│   │   │   ├── exam1.csv
+│   │   │   ├── exam2_hist.pdf
+│   │   │   ├── exam3_hist.pdf
+│   │   │   ├── exam3_raw.xlsx
+│   │   │   ├── final_exam_grade_template.xlsx
+│   │   │   ├── final_grades.Rmd
+│   │   │   ├── FINAL_GRADESHEET.csv
+│   │   │   ├── FINAL_GRADESHEET.xlsx
+│   │   │   ├── grades_exam1.Rmd
+│   │   │   ├── grades_exam2.Rmd
+│   │   │   ├── grades_exam3.Rmd
+│   │   │   ├── MG2023_parchman58660-20230517-Scores(1).csv
+│   │   │   └── TRIMMED_MG2023_parchman58660-20230517-Scores(1).csv
+│   │   ├── 2023-04-21T1453_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   ├── 2024
+│   │   │   ├── 2024-02-16T1751_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2024-03-16T2033_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2024-04-20T1807_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2024-05-08T1328_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2024-05-13T2021_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── exam1_hist.pdf
+│   │   │   ├── exam1.csv
+│   │   │   ├── exam1.xlsx
+│   │   │   ├── exam2_hist.pdf
+│   │   │   ├── exam2.csv
+│   │   │   ├── exam3_hist.pdf
+│   │   │   ├── exam3grades.csv
+│   │   │   ├── final_grades_all.csv
+│   │   │   ├── final_grades.Rmd
+│   │   │   ├── grades_exam1.Rmd
+│   │   │   ├── grades_exam2.html
+│   │   │   ├── grades_exam2.Rmd
+│   │   │   ├── grades_exam3.Rmd
+│   │   │   ├── MG_and_finalExam_grades.csv
+│   │   │   └── MGgrade_summary.csv
+│   │   ├── 2025
+│   │   │   ├── 2025-05-10T1336_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2025-05-13T1718_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2025-05-14T0643_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2025-05-15T0808_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2025-05-15T1233_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── 2025-05-15T1250_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── Exam 1 - BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── Exam 2Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── exam1_hist.pdf
+│   │   │   ├── exam1.csv
+│   │   │   ├── exam2.csv
+│   │   │   ├── exam3_hist.pdf
+│   │   │   ├── exam3.csv
+│   │   │   ├── final_exam_hist.pdf
+│   │   │   ├── final_grade_calculations_canvas_lowdropped.csv
+│   │   │   ├── final_grade_calculations_canvas.csv
+│   │   │   ├── final_grade_hist.pdf
+│   │   │   ├── final_grades.csv
+│   │   │   ├── FINALGRADES_MARWA_2025-05-13T1240_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │   │   ├── grades_exam1.Rmd
+│   │   │   ├── grades_exam2.Rmd
+│   │   │   ├── grades_exam3.Rmd
+│   │   │   ├── grades_final.Rmd
+│   │   │   ├── last_download_full_MG_parchman85454-20250515-Scores(3).csv
+│   │   │   └── parchman85454-20250511-Scores.csv
+│   │   └── 2026
+│   │       ├── 2026-02-10T1224_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-03-17T1506_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-03-18T1938_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-04-16T1523_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-05-08T0822_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-05-12T1219_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-05-12T1231_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-05-12T1234_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── 2026-05-12T1241_Grades-BIOL_300.1001_Principles_of_Genetics.csv
+│   │       ├── exam1_grades.csv
+│   │       ├── exam1_hist.pdf
+│   │       ├── exam2_grades.csv
+│   │       ├── exam2_hista.pdf
+│   │       ├── exam3_grades.csv
+│   │       ├── exam3_hist.pdf
+│   │       ├── final_grades.Rmd
+│   │       ├── GBS_prep_platemap.xlsx
+│   │       ├── grades_exam1.Rmd
+│   │       ├── grades_exam2.Rmd
+│   │       ├── grades_exam3.Rmd
+│   │       ├── grades_summary_final_wdrop.csv
+│   │       ├── grades_summary_final.csv
+│   │       └── MG_2026_final.csv
+│   ├── honors
+│   │   ├── 2018
+│   │   │   └── HynesParkinson's Essay.docx
+│   │   ├── 2019
+│   │   │   ├── sivakoses
+│   │   │   │   ├── Exam 2 Practice Test, Jiavanna Wong-Fortunato.docx
+│   │   │   │   ├── Test 2 Questions.docx
+│   │   │   │   └── UNIT 1 TEST QUESTIONS.docx
+│   │   │   └── wong-fortunato
+│   │   │       ├── Exam 1 Practice Test, Jiavanna Wong-Fortunato.docx
+│   │   │       ├── Exam 1, 2, 3 Practice Test, Jiavanna Wong-Fortunato.pdf
+│   │   │       └── Exam 3 Practice Test, Jiavanna Wong-Fortunato.docx
+│   │   └── 2020
+│   │       ├── Direct to Consumer Genetic Testing.pdf
+│   │       └── Megan Perry Honors in the Major Paper BIOL 300.pdf
+│   ├── learning_catylitics
+│   │   ├── 12_clicker_questions_FL.pptx
+│   │   ├── 20_clicker_questions_FL.pptx
+│   │   └── amos_questions
+│   │       ├── Chapter 3 Questions 2_16.docx
+│   │       ├── Chapter 3 Questions Updated.docx
+│   │       └── Chapter 4 Questions 2_24.docx
+│   ├── lectures
+│   │   ├── DNAi_PCR-lg.mov
+│   │   ├── DNAi_transcription_vo2-lg.mov
+│   │   ├── SP2022
+│   │   │   ├── ~$chap10_partAandB.pptx
+│   │   │   ├── ~$Exam1Review_S22.pptx
+│   │   │   ├── ~$lect_17_chap7.pptx
+│   │   │   ├── ~$lect_18_chap8_9.ppt
+│   │   │   ├── ~$lect_4_chap2.pptx
+│   │   │   ├── ~$lect_4-6_chap2.pptx
+│   │   │   ├── ~$lect_6_7_chap3.pptx
+│   │   │   ├── ~$lect_chap12_13.pptx
+│   │   │   ├── ~$lect_chap4_8_9.pptx
+│   │   │   ├── chap10_partAandB.pptx
+│   │   │   ├── chap5_no_19.pptx
+│   │   │   ├── Exam1Review_S22.pptx
+│   │   │   ├── exam2_review.pptx
+│   │   │   ├── exam3_review.pptx
+│   │   │   ├── final_reviewA.pptx
+│   │   │   ├── Lect_1.pptx
+│   │   │   ├── lect_11_12_chap5.pptx
+│   │   │   ├── lect_17_chap7.pptx
+│   │   │   ├── lect_18_chap8_9.ppt
+│   │   │   ├── lect_4_chap2.pptx
+│   │   │   ├── lect_4-6_chap2.pptx
+│   │   │   ├── lect_6_7_chap3.pptx
+│   │   │   ├── lect_chap12_13.pptx
+│   │   │   ├── lect_chap20_2021.pptx
+│   │   │   ├── lect_chap20.pptx
+│   │   │   └── lect_chap4_8_9.pptx
+│   │   ├── SP2023
+│   │   │   ├── ~$lect_chap12_13.pptx
+│   │   │   ├── ~$lect_chap20_2021.pptx
+│   │   │   ├── 5_11_23_zoom_review_content.pptx
+│   │   │   ├── final_reviewA.pptx
+│   │   │   ├── lect_chap12_13.pptx
+│   │   │   ├── lect_chap20_2021.pptx
+│   │   │   ├── up_to_exam1
+│   │   │   │   ├── ~$exam2_review.pptx
+│   │   │   │   ├── Exam1Review_S23.pptx
+│   │   │   │   ├── exam2_review.pptx
+│   │   │   │   ├── Lect_1.pptx
+│   │   │   │   ├── lect_11_12_chap5.pptx
+│   │   │   │   ├── Lect_2_3_Chap_1.pptx
+│   │   │   │   ├── lect_4_chap2.pptx
+│   │   │   │   ├── lect_4-6_chap2.pptx
+│   │   │   │   ├── lect_6_7_chap3.pptx
+│   │   │   │   └── lect_chap4_8_9.pptx
+│   │   │   └── up_to_exam3
+│   │   │       ├── ~$chap10_partAandB.pptx
+│   │   │       ├── ~$exam3_review.pptx
+│   │   │       ├── ~$lect_17_chap7.pptx
+│   │   │       ├── ~$lect_18_chap8_9.ppt
+│   │   │       ├── BIOL300_3rdEdCh10_student.pdf
+│   │   │       ├── chap10_partAandB.pdf
+│   │   │       ├── chap10_partAandB.pptx
+│   │   │       ├── exam3_review.pptx
+│   │   │       ├── lect_17_chap7.pptx
+│   │   │       └── lect_18_chap8_9.ppt
+│   │   ├── SP2024
+│   │   │   ├── ~$final_reviewA.pptx
+│   │   │   ├── final_reviewA.pptx
+│   │   │   ├── lect_chap12_13.pptx
+│   │   │   ├── lect_chap20_2024.pptx
+│   │   │   ├── up_to_exam1
+│   │   │   │   ├── ~$Exam1Review_S24.pptx
+│   │   │   │   ├── ~$exam2_review.pptx
+│   │   │   │   ├── ~$Lect_2_3_Chap_1.pptx
+│   │   │   │   ├── ~$lect_6_chap2.pptx
+│   │   │   │   ├── Exam1Review_S23.pptx
+│   │   │   │   ├── Exam1Review_S24.pptx
+│   │   │   │   ├── exam2_review.pptx
+│   │   │   │   ├── Lect_1.pptx
+│   │   │   │   ├── lect_11_12_chap5.pptx
+│   │   │   │   ├── Lect_2_3_Chap_1.pdf
+│   │   │   │   ├── Lect_2_3_Chap_1.pptx
+│   │   │   │   ├── lect_4_chap2.pdf
+│   │   │   │   ├── lect_4_chap2.pptx
+│   │   │   │   ├── lect_4-6_chap2.pptx
+│   │   │   │   ├── lect_5_chap2.pdf
+│   │   │   │   ├── lect_5_chap2.pptx
+│   │   │   │   ├── lect_6_7_chap3.pptx
+│   │   │   │   ├── lect_6_chap2.pdf
+│   │   │   │   ├── lect_6_chap2.pptx
+│   │   │   │   └── lect_chap4_8_9.pptx
+│   │   │   ├── up_to_exam2
+│   │   │   │   ├── ~$lect_11_12_chap5.pptx
+│   │   │   │   ├── exam2_review.pptx
+│   │   │   │   ├── EXAMPLEExam2_S19_Parchman_key.docx
+│   │   │   │   ├── EXAMPLEExam2_S19_Parchman.docx
+│   │   │   │   ├── lect_11_12_chap5.pdf
+│   │   │   │   ├── lect_11_12_chap5.pptx
+│   │   │   │   ├── lect_6_7_chap3.pdf
+│   │   │   │   ├── lect_6_7_chap3.pptx
+│   │   │   │   └── lect_chap4_8_9.pptx
+│   │   │   └── up_to_exam3
+│   │   │       ├── ~$chap10_partAandB.pptx
+│   │   │       ├── ~$exam3_review.pptx
+│   │   │       ├── ~$lect_17_chap7.pptx
+│   │   │       ├── chap10_partAandB.pdf
+│   │   │       ├── chap10_partAandB.pptx
+│   │   │       ├── exam3_review.pptx
+│   │   │       ├── lect_17_chap7.pptx
+│   │   │       └── lect_18_chap8_9.ppt
+│   │   ├── SP2025
+│   │   │   ├── ~$final_ex_probs.pptx
+│   │   │   ├── ~$final_reviewA.pptx
+│   │   │   ├── ~$lect_chap12_13.pptx
+│   │   │   ├── chisquare_demo.pdf
+│   │   │   ├── chisquare_demo.pptx
+│   │   │   ├── final_ex_probs.pdf
+│   │   │   ├── final_ex_probs.pptx
+│   │   │   ├── final_reviewA.pptx
+│   │   │   ├── lect_chap12_13.pdf
+│   │   │   ├── lect_chap12_13.pptx
+│   │   │   ├── lect_chap20_2025.pdf
+│   │   │   ├── lect_chap20_2025.pptx
+│   │   │   ├── up_to_exam1
+│   │   │   │   ├── ~$2_3_probs.pptx
+│   │   │   │   ├── ~$Exam1Review_S25.pptx
+│   │   │   │   ├── ~$Lect_1.pptx
+│   │   │   │   ├── ~$Lect_2_3_Chap_1.pptx
+│   │   │   │   ├── ~$lect_4_chap2.pptx
+│   │   │   │   ├── ~$lect_5_chap2.pptx
+│   │   │   │   ├── ~$lect_6_chap2.pptx
+│   │   │   │   ├── 2_2_probs.pdf
+│   │   │   │   ├── 2_2_probs.pptx
+│   │   │   │   ├── 2_3_probs.pdf
+│   │   │   │   ├── 2_3_probs.pptx
+│   │   │   │   ├── Exam1Review_S23.pptx
+│   │   │   │   ├── Exam1Review_S25.pptx
+│   │   │   │   ├── exam2_review.pptx
+│   │   │   │   ├── Lect_1.pptx
+│   │   │   │   ├── lect_11_12_chap5.pptx
+│   │   │   │   ├── Lect_2_3_Chap_1.pdf
+│   │   │   │   ├── Lect_2_3_Chap_1.pptx
+│   │   │   │   ├── lect_4_chap2.pdf
+│   │   │   │   ├── lect_4_chap2.pptx
+│   │   │   │   ├── lect_4-6_chap2.pptx
+│   │   │   │   ├── lect_5_chap2.pdf
+│   │   │   │   ├── lect_5_chap2.pptx
+│   │   │   │   ├── lect_6_7_chap3.pptx
+│   │   │   │   ├── lect_6_chap2.pdf
+│   │   │   │   ├── lect_6_chap2.pptx
+│   │   │   │   ├── lect_chap4_8_9.pptx
+│   │   │   │   ├── Untitled.ipynb
+│   │   │   │   └── Untitled1.ipynb
+│   │   │   ├── up_to_exam2
+│   │   │   │   ├── ~$lect_11_12_chap5.pptx
+│   │   │   │   ├── ~$lect_6_7_chap3.pptx
+│   │   │   │   ├── ~$lect_chap4_8_9.pptx
+│   │   │   │   ├── exam2_review.pptx
+│   │   │   │   ├── EXAMPLEExam2_S19_Parchman_key.docx
+│   │   │   │   ├── EXAMPLEExam2_S19_Parchman.docx
+│   │   │   │   ├── lect_11_12_chap5.pdf
+│   │   │   │   ├── lect_11_12_chap5.pptx
+│   │   │   │   ├── lect_6_7_chap3.pdf
+│   │   │   │   ├── lect_6_7_chap3.pptx
+│   │   │   │   ├── lect_chap4_8_9.pdf
+│   │   │   │   ├── lect_chap4_8_9.pptx
+│   │   │   │   ├── probs_for_review.pdf
+│   │   │   │   └── probs_for_review.pptx
+│   │   │   └── up_to_exam3
+│   │   │       ├── ~$chap10_partAandB.pptx
+│   │   │       ├── ~$exam3_review.pptx
+│   │   │       ├── ~$lect_17_chap7.pptx
+│   │   │       ├── chap10_partAandB.pdf
+│   │   │       ├── chap10_partAandB.pptx
+│   │   │       ├── exam3_review.pptx
+│   │   │       ├── inversions_translocations_eg_probs.pdf
+│   │   │       ├── inversions_translocations_eg_probs.pptx
+│   │   │       ├── lect_17_chap7.pdf
+│   │   │       ├── lect_17_chap7.pptx
+│   │   │       ├── lect_18_chap8_9.pdf
+│   │   │       └── lect_18_chap8_9.ppt
+│   │   └── SP2026
+│   │       ├── 12_20_practice_questions.docx
+│   │       ├── chisquare_demo.pdf
+│   │       ├── chisquare_demo.pptx
+│   │       ├── final_ex_probs.pdf
+│   │       ├── final_ex_probs.pptx
+│   │       ├── final_reviewA.pptx
+│   │       ├── lect_chap12_13.pdf
+│   │       ├── lect_chap12_13.pptx
+│   │       ├── lect_chap20_2025.pdf
+│   │       ├── lect_chap20_2025.pptx
+│   │       ├── lect_chap20_2026.pdf
+│   │       ├── lect_chap20_2026.pptx
+│   │       ├── up_to_exam1
+│   │       │   ├── 2_2_probs.pdf
+│   │       │   ├── 2_2_probs.pptx
+│   │       │   ├── 2_3_probs.pdf
+│   │       │   ├── 2_3_probs.pptx
+│   │       │   ├── Exam1Review_S26_blank.pdf
+│   │       │   ├── Exam1Review_S26_blank.pptx
+│   │       │   ├── Exam1Review_S26.pptx
+│   │       │   ├── exam2_review.pptx
+│   │       │   ├── Lect_1.pdf
+│   │       │   ├── Lect_1.pptx
+│   │       │   ├── lect_11_12_chap5.pptx
+│   │       │   ├── Lect_2_3_Chap_1.pdf
+│   │       │   ├── Lect_2_3_Chap_1.pptx
+│   │       │   ├── lect_4_chap2.pdf
+│   │       │   ├── lect_4_chap2.pptx
+│   │       │   ├── lect_4-6_chap2.pptx
+│   │       │   ├── lect_5_chap2.pdf
+│   │       │   ├── lect_5_chap2.pptx
+│   │       │   ├── lect_6_7_chap3.pptx
+│   │       │   ├── lect_6_chap2_blank.pdf
+│   │       │   ├── lect_6_chap2_blank.pptx
+│   │       │   ├── lect_6_chap2.pdf
+│   │       │   ├── lect_6_chap2.pptx
+│   │       │   └── lect_chap4_8_9.pptx
+│   │       ├── up_to_exam2
+│   │       │   ├── ~$lect_11_12_chap5.pptx
+│   │       │   ├── ~$lect_6_7_chap3.pptx
+│   │       │   ├── ~$lect_chap4_8_9.pptx
+│   │       │   ├── exam2_review.pptx
+│   │       │   ├── EXAMPLEExam2_S19_Parchman_key.docx
+│   │       │   ├── EXAMPLEExam2_S19_Parchman.docx
+│   │       │   ├── jack_jill_chap3.pdf
+│   │       │   ├── jack_jill_chap3.pptx
+│   │       │   ├── lect_11_12_chap5.pdf
+│   │       │   ├── lect_11_12_chap5.pptx
+│   │       │   ├── lect_11_12_chap5sp26.pdf
+│   │       │   ├── lect_11_12_chap5sp26.pptx
+│   │       │   ├── lect_6_7_chap3.pdf
+│   │       │   ├── lect_6_7_chap3.pptx
+│   │       │   ├── lect_chap4_8_9_sp26.pdf
+│   │       │   ├── lect_chap4_8_9_sp26.pptx
+│   │       │   ├── lect_chap4_8_9_sp26a.pptx
+│   │       │   ├── lect_chap4_8_9.pptx
+│   │       │   ├── probs_for_review.pdf
+│   │       │   ├── probs_for_review.pptx
+│   │       │   ├── shmoos_mapping.pdf
+│   │       │   └── shmoos_mapping.pptx
+│   │       └── up_to_exam3
+│   │           ├── ~$chap10_partAandB.pptx
+│   │           ├── ~$exam3_review.pptx
+│   │           ├── ~$lect_17_chap7.pptx
+│   │           ├── chap10_partAandB.pdf
+│   │           ├── chap10_partAandB.pptx
+│   │           ├── exam3_review.pptx
+│   │           ├── inversions_translocations_eg_probs.pdf
+│   │           ├── inversions_translocations_eg_probs.pptx
+│   │           ├── lect_17_chap7.pdf
+│   │           ├── lect_17_chap7.pptx
+│   │           ├── lect_18_chap8_9.pdf
+│   │           └── lect_18_chap8_9.ppt
+│   ├── mastering_genetics
+│   │   ├── mastering_genetics_notes.txt
+│   │   └── webcampus_notes.txt
+│   ├── old_exams
+│   │   ├── Exam 1 Fall 08-postFall13.pdf
+│   │   ├── Exam 2 Fall 2012 for F13 Exam 3 sample.docx
+│   │   ├── Exam 2 Fall 2012 for F13 Exam 3 sample.pdf
+│   │   ├── Exam 3 Fall 2012 F13 sample for Exam 3.docx
+│   │   ├── Exam 3 Fall 2012 F13 sample for Exam 3.pdf
+│   │   ├── Exam 3 Fall 2013 v2.docx
+│   │   ├── FA08 Exam 4 v3 w'key.pdf
+│   │   ├── FA08 Exam 4 v3.pdf
+│   │   ├── Key Exam 1 Fall 08.pdf
+│   │   ├── KEY Exam 2 Fall 2012.pdf
+│   │   ├── KEY Exam 3 Fall 2012 sample(1).pdf
+│   │   ├── S13Biol300Exam2ShortAnswerKey2_sandstrom.pdf
+│   │   ├── S13Biol300Exam2v1_MCkey_sandstom.pdf
+│   │   ├── S13Biol300Exam2v1_sandstrom.pdf
+│   │   └── Sandstrom_S13Biol300Exam1v1_MCkey.pdf
+│   ├── old_groups
+│   │   ├── 2014_groups
+│   │   │   ├── DG
+│   │   │   │   ├── Ch1.doc
+│   │   │   │   ├── Ch10.doc
+│   │   │   │   ├── Ch11.doc
+│   │   │   │   ├── Ch11key.doc
+│   │   │   │   ├── Ch13.doc
+│   │   │   │   ├── Ch14_15.doc
+│   │   │   │   ├── Ch16.doc
+│   │   │   │   ├── Ch2.doc
+│   │   │   │   ├── Ch22.doc
+│   │   │   │   ├── Ch22key.doc
+│   │   │   │   ├── Ch3.doc
+│   │   │   │   ├── Ch4.doc
+│   │   │   │   ├── Ch5.doc
+│   │   │   │   ├── Ch7.doc
+│   │   │   │   ├── Ch8_9.doc
+│   │   │   │   ├── DG_last_week.xlsx
+│   │   │   │   ├── DG_schedule.xlsx
+│   │   │   │   ├── leaders.xlsx
+│   │   │   │   ├── Parchman_leaders.xlsx
+│   │   │   │   ├── presentation_schedule.xlsx
+│   │   │   │   ├── proctoring_schedule.xlsx
+│   │   │   │   └── S14BIOL491syllabus_BIOL300.doc
+│   │   │   └── DG_applications
+│   │   │       ├── Austin_marret_app.docx
+│   │   │       ├── Bio Application_Tyler_Rogers.docx
+│   │   │       ├── Demi_ColeS14Biol300DGleaderapp.doc
+│   │   │       ├── Denardo_S14Biol300DGleaderApp-3.doc
+│   │   │       ├── DG_applicants.xlsx
+│   │   │       ├── DG_leader_app_ebar.docx
+│   │   │       ├── DiscussionGroupLeaderApplicationRSHRAKE.doc
+│   │   │       ├── eoff_app_DG.doc
+│   │   │       ├── Friedman_DG_leader_app
+│   │   │       ├── Josh_Beard_app.doc
+│   │   │       ├── leaders.xlsx
+│   │   │       ├── Parchman_leaders.xlsx
+│   │   │       ├── S14Biol300DGleaderappSwanson,Kevin.doc
+│   │   │       ├── short_essay_ebar.docx
+│   │   │       ├── tiffany_scott_app.pdf
+│   │   │       ├── Tyler - DG Biol 300-1.docx
+│   │   │       ├── William_Brown_S14Biol300DGleaderapp.doc
+│   │   │       └── wydermeyer_DG_app.doc
+│   │   ├── 2015_groups
+│   │   │   ├── apps
+│   │   │   │   ├── AdamOrtizTranscript.pdf
+│   │   │   │   ├── andrew_transcript.pdf
+│   │   │   │   ├── apps_final.xlsx
+│   │   │   │   ├── apps.xls
+│   │   │   │   ├── Biol300 MDG Leader_Vasquez.doc
+│   │   │   │   ├── Biol300Returning_DGleaderapp_wydermyer.docx
+│   │   │   │   ├── Denardo_app.docx
+│   │   │   │   ├── Denardotranscript.pdf
+│   │   │   │   ├── DG Application_Rapp.docx
+│   │   │   │   ├── DGLeaderQualificationsCareerGoalsandInterestinBecomingaDGLeader_Macias.docx
+│   │   │   │   ├── Discussion Group Leader Application_ORTIZ.pdf
+│   │   │   │   ├── Ha_Discussion Group Leader Application Final.pdf
+│   │   │   │   ├── Ha_Transcript - November 2014.pdf
+│   │   │   │   ├── harpainter_transcript.pdf
+│   │   │   │   ├── Liepens_transcript.pdf
+│   │   │   │   ├── LiepensSSR_TSRPT-11.pdf
+│   │   │   │   ├── Macias_app.docx
+│   │   │   │   ├── macias_transcript.pdf
+│   │   │   │   ├── Montero_SP15Biol300DGleaderapp.pdf
+│   │   │   │   ├── nextyearlist.txt
+│   │   │   │   ├── RogersSP15Biol300Returning_DGleaderapp-3.doc
+│   │   │   │   ├── shrake
+│   │   │   │   │   ├── Academic Transcipt-MSU.pdf
+│   │   │   │   │   ├── SP15Biol300Returning_DGleaderappRSHRAKE.doc
+│   │   │   │   │   ├── TMCC Transcript Fall '13.pdf
+│   │   │   │   │   └── UNR Transcript Fall 2014.pdf
+│   │   │   │   ├── SP15BIOL300_TiffanyScottApplication.doc
+│   │   │   │   ├── SP15Biol300DGLapp_Fuhrman.doc
+│   │   │   │   ├── SP15Biol300DGLapp.doc
+│   │   │   │   ├── SP15Biol300DGleaderapp (1)_andrew.doc
+│   │   │   │   ├── SP15Biol300DGleaderapp_harpainter.doc
+│   │   │   │   ├── SP15Biol300DGleaderapp_Ji.docx
+│   │   │   │   ├── SP15Biol300DGleaderapp_santamaria.pdf
+│   │   │   │   ├── SP15Biol300DGleaderappAdamOrtiz.pdf
+│   │   │   │   ├── SP15MarkusLiepinsDGLeaderApp.doc
+│   │   │   │   ├── Transcript - Milan Montero.pdf
+│   │   │   │   ├── Transcript of Suzhe Ji.pdf
+│   │   │   │   ├── Unofficial_Transcript_Santamaria.pdf
+│   │   │   │   └── UNR Unofficial Transcript Rapp.pdf
+│   │   │   ├── DG_schedule.xlsx
+│   │   │   ├── F15Biol300DGleaderapp (1).doc
+│   │   │   ├── F15Biol300DGleaderapp.doc
+│   │   │   ├── F15Biol300Returning_DGleaderapp.doc
+│   │   │   ├── leader_list.xlsx
+│   │   │   ├── newleader_apps
+│   │   │   │   ├── Bio DG 300 Kevin So.doc
+│   │   │   │   ├── Biol 300 Application-1.doc
+│   │   │   │   ├── Biol 300 Application.doc
+│   │   │   │   ├── BIOL 300 DG Leader Application - Philip Mercurio.doc
+│   │   │   │   ├── Biol300DGleaderapp-2.doc
+│   │   │   │   ├── DGL.pages
+│   │   │   │   ├── discussion group leader ap final.pdf
+│   │   │   │   ├── F15Biol300DGleaderapp (1)-1.doc
+│   │   │   │   ├── F15Biol300DGleaderapp (1).doc
+│   │   │   │   ├── F15Biol300DGleaderapp-1.doc
+│   │   │   │   ├── F15Biol300DGleaderapp-1.pages
+│   │   │   │   ├── F15Biol300DGleaderapp.doc
+│   │   │   │   ├── Leader-2 1-1.tiff
+│   │   │   │   ├── Leader-2 1-2.tiff
+│   │   │   │   ├── Leader-2 1.tiff
+│   │   │   │   ├── Leader-2-1.tiff
+│   │   │   │   ├── Leader-2-2.tiff
+│   │   │   │   ├── Leader-2.tiff
+│   │   │   │   ├── Screen Shot 2015-03-27 at 3.27.36 PM-1.png
+│   │   │   │   ├── Screen Shot 2015-03-27 at 3.27.36 PM-2.png
+│   │   │   │   ├── Screen Shot 2015-03-27 at 3.27.36 PM.png
+│   │   │   │   ├── SSR_TSRPT 2015.pdf
+│   │   │   │   ├── SSR_TSRPT-1.pdf
+│   │   │   │   ├── SSR_TSRPT.pdf
+│   │   │   │   ├── Transcript.pdf
+│   │   │   │   ├── Unofficial Transcript - Philip Mercurio.pdf
+│   │   │   │   ├── Unofficial Transcript 4-30-2015-1.pdf
+│   │   │   │   ├── Unofficial Transcript 4-30-2015.pdf
+│   │   │   │   ├── unofficial transcript-1.pdf
+│   │   │   │   └── unofficial transcript.pdf
+│   │   │   ├── presentation_schedule.xlsx
+│   │   │   ├── presentation_schedule2015.xlsx
+│   │   │   ├── proctoring_schedule.xlsx
+│   │   │   ├── S15TomDGSchedule.xlsx
+│   │   │   ├── schedule_notes.txt
+│   │   │   ├── unofficial transcript.pdf
+│   │   │   └── worksheets
+│   │   │       ├── Ch1.doc
+│   │   │       ├── Ch10.doc
+│   │   │       ├── Ch11.doc
+│   │   │       ├── Ch11key.doc
+│   │   │       ├── Ch13.doc
+│   │   │       ├── Ch13key.doc
+│   │   │       ├── Ch14_15.doc
+│   │   │       ├── Ch14_15key.doc
+│   │   │       ├── Ch16.doc
+│   │   │       ├── CH18_key.docx
+│   │   │       ├── CH18.docx
+│   │   │       ├── Ch2.doc
+│   │   │       ├── Ch22.doc
+│   │   │       ├── Ch22key.doc
+│   │   │       ├── Ch3.doc
+│   │   │       ├── Ch4.doc
+│   │   │       ├── Ch5.doc
+│   │   │       ├── Ch7.doc
+│   │   │       ├── Ch8_9_key.doc
+│   │   │       ├── Ch8_9.doc
+│   │   │       ├── exam1_rev.docx
+│   │   │       ├── exam2_rev.docx
+│   │   │       ├── Extra Binomial problems.docx
+│   │   │       ├── final_review_key.docx
+│   │   │       ├── final_review.docx
+│   │   │       └── S14BIOL491syllabus_BIOL300.doc
+│   │   ├── 2016_groups
+│   │   │   ├── 2016BIOL300 DGL Application-Final.docx
+│   │   │   ├── apps
+│   │   │   ├── DG_schedule.xlsx
+│   │   │   ├── DG_SP16
+│   │   │   │   ├── applications
+│   │   │   │   │   ├── new_leaders
+│   │   │   │   │   │   ├── ANDERSEN_Biol300DGleaderapp.doc
+│   │   │   │   │   │   ├── ANDERSEN_Biol300shortresponse.docx
+│   │   │   │   │   │   ├── AndersenTranscript.pdf
+│   │   │   │   │   │   ├── CARBAJAL_Biol300DGleaderapp .pdf
+│   │   │   │   │   │   ├── CARBAJAL_Biol300DGleaderShortResponse.docx
+│   │   │   │   │   │   ├── CARBAJAL_Biol300DGleaderTranscript.pdf
+│   │   │   │   │   │   ├── Dietlein_Biol300DGleaderapp.pdf
+│   │   │   │   │   │   ├── Khoshaba_Biol300DGleaderapp.doc
+│   │   │   │   │   │   ├── Khoshaba_Biol300Transcript.pdf
+│   │   │   │   │   │   ├── kind_dg_app.pdf
+│   │   │   │   │   │   ├── kind_transcript.pdf
+│   │   │   │   │   │   ├── KOHLER_BIOL300DGleaderapp.doc
+│   │   │   │   │   │   ├── KOHLER_BIOL300Transcript.pdf
+│   │   │   │   │   │   ├── Novenschi_Biol300DGleaderapp.doc
+│   │   │   │   │   │   ├── Novenschi_Biol300Transcript.pdf
+│   │   │   │   │   │   ├── rhode_transcript.pdf
+│   │   │   │   │   │   ├── rohde_dg_app.pdf
+│   │   │   │   │   │   ├── WARNER_Biol300DGleaderapp.doc
+│   │   │   │   │   │   └── WARNER_Biol300Transcript.pdf
+│   │   │   │   │   └── returning_leaders
+│   │   │   │   │       ├── AustinMarettDGApp.docx
+│   │   │   │   │       ├── Macias_Biol300DGleaderapp.doc
+│   │   │   │   │       ├── Macias_Biol300DGleaderappstatement.docx
+│   │   │   │   │       ├── Macias_Biol300Transcript.pdf
+│   │   │   │   │       ├── Marrett_TranscriptNovemeber2015.pdf
+│   │   │   │   │       ├── SO_KEVIN_Sp16_Biol300DGleaderapp.doc
+│   │   │   │   │       ├── SO_KEVIN_SSR_TSRPT.pdf
+│   │   │   │   │       ├── standerfer_S16Biol300Returning_DGleaderapp.docx
+│   │   │   │   │       ├── standerfer_transcript.pdf
+│   │   │   │   │       ├── trowbridge_S16Biol300Returning_DGleaderapp-1.docx
+│   │   │   │   │       └── trowbridge_transcipt.pdf
+│   │   │   │   ├── schedule
+│   │   │   │   │   ├── DG_schedule_final.xlsx
+│   │   │   │   │   ├── DG_schedule_final.xlsx (1).gsheet
+│   │   │   │   │   ├── DG_schedule_final.xlsx.gsheet
+│   │   │   │   │   ├── DG_schedule_signup_options.xlsx
+│   │   │   │   │   ├── DG_schedule_signup_options.xlsx.gsheet
+│   │   │   │   │   ├── email_list.txt
+│   │   │   │   │   ├── leader_list16.xlsx
+│   │   │   │   │   ├── leader_list16.xlsx.gsheet
+│   │   │   │   │   ├── planning_todo.docx
+│   │   │   │   │   ├── presentation_schedule.xlsx
+│   │   │   │   │   ├── presentation_schedule.xlsx.gsheet
+│   │   │   │   │   └── returning_leaders_SP15.xlsx
+│   │   │   │   └── worksheets
+│   │   │   │       ├── attendance
+│   │   │   │       │   ├── Adam.gsheet
+│   │   │   │       │   ├── Alex.gsheet
+│   │   │   │       │   ├── Amy.gsheet
+│   │   │   │       │   ├── Austin.gsheet
+│   │   │   │       │   ├── Cody.gsheet
+│   │   │   │       │   ├── Donovan.gsheet
+│   │   │   │       │   ├── Jordan.gsheet
+│   │   │   │       │   ├── Juan.gsheet
+│   │   │   │       │   ├── Julia.gsheet
+│   │   │   │       │   ├── Kendal.gsheet
+│   │   │   │       │   ├── Kevin.gsheet
+│   │   │   │       │   ├── Lauren.gsheet
+│   │   │   │       │   └── Roxann.gsheet
+│   │   │   │       ├── Ch 5p1.PDF
+│   │   │   │       ├── Ch. 22 #25 Key.pdf
+│   │   │   │       ├── Ch. 22 #25.docx
+│   │   │   │       ├── CH1 p1 Key.PDF
+│   │   │   │       ├── CH1 p2 Key.PDF
+│   │   │   │       ├── Ch1.doc
+│   │   │   │       ├── Ch10.doc
+│   │   │   │       ├── Ch11.doc
+│   │   │   │       ├── Ch11key.doc
+│   │   │   │       ├── Ch13.doc
+│   │   │   │       ├── Ch13key.doc
+│   │   │   │       ├── Ch14_15.doc
+│   │   │   │       ├── Ch14_15.doc.gdoc
+│   │   │   │       ├── Ch14_15key.doc
+│   │   │   │       ├── Ch16.doc
+│   │   │   │       ├── CH18_key.docx
+│   │   │   │       ├── CH18.docx
+│   │   │   │       ├── CH2 p1 Key.PDF
+│   │   │   │       ├── CH2 p2 Key.PDF
+│   │   │   │       ├── CH2 p3 Key.PDF
+│   │   │   │       ├── CH2 p4 Key.pdf
+│   │   │   │       ├── Ch2.doc
+│   │   │   │       ├── Ch22.doc
+│   │   │   │       ├── Ch22key.doc
+│   │   │   │       ├── CH3 p1 Key.PDF
+│   │   │   │       ├── CH3 p2 Key.PDF
+│   │   │   │       ├── CH3 p3 Key.PDF
+│   │   │   │       ├── CH3 p4 Key.PDF
+│   │   │   │       ├── Ch3.doc
+│   │   │   │       ├── CH4 p1 Key.PDF
+│   │   │   │       ├── CH4 p2 Key.PDF
+│   │   │   │       ├── CH4 p3 Key.PDF
+│   │   │   │       ├── CH4 p4 Key.PDF
+│   │   │   │       ├── Ch4.doc
+│   │   │   │       ├── Ch5 p2.PDF
+│   │   │   │       ├── Ch5 p3.PDF
+│   │   │   │       ├── Ch5.doc
+│   │   │   │       ├── Ch7_key.doc
+│   │   │   │       ├── Ch7.doc
+│   │   │   │       ├── Ch8_9_key.doc
+│   │   │   │       ├── Ch8_9.doc
+│   │   │   │       ├── exam1_rev_key.docx
+│   │   │   │       ├── exam1_review.docx
+│   │   │   │       ├── Exam1Review_S15 (1).pptx
+│   │   │   │       ├── Exam1Review_S15.pptx
+│   │   │   │       ├── Exam1Review_S15.pptx.gslides
+│   │   │   │       ├── exam2_rev.docx
+│   │   │   │       ├── exam2_rev.docx.gdoc
+│   │   │   │       ├── Extra Binomial problems.docx
+│   │   │   │       ├── final_review_key.docx
+│   │   │   │       ├── final_review_key.docx.gdoc
+│   │   │   │       ├── final_review.docx
+│   │   │   │       ├── IMG_0704.JPG
+│   │   │   │       ├── Most_missed_SP16_key.docx
+│   │   │   │       └── Most_missed_SP16.docx
+│   │   │   ├── Dietlein_Biol300DGleaderapp.pdf
+│   │   │   ├── for_interviews.docx
+│   │   │   ├── leader_list16.xlsx
+│   │   │   ├── presentation_schedule.xlsx
+│   │   │   ├── proctoring_schedule.xlsx
+│   │   │   ├── SP15Biol300DGleaderapp.doc
+│   │   │   ├── SP15Biol300Returning_DGleaderapp.doc
+│   │   │   ├── Sp16_Biol300DGleaderapp.doc
+│   │   │   └── worksheets
+│   │   │       ├── Ch1.doc
+│   │   │       ├── Ch10.doc
+│   │   │       ├── Ch11.doc
+│   │   │       ├── Ch11key.doc
+│   │   │       ├── Ch13.doc
+│   │   │       ├── Ch13key.doc
+│   │   │       ├── Ch14_15.doc
+│   │   │       ├── Ch14_15key.doc
+│   │   │       ├── Ch16.doc
+│   │   │       ├── CH18_key.docx
+│   │   │       ├── CH18.docx
+│   │   │       ├── Ch2.doc
+│   │   │       ├── Ch22.doc
+│   │   │       ├── Ch22key.doc
+│   │   │       ├── Ch3.doc
+│   │   │       ├── Ch4.doc
+│   │   │       ├── Ch5.doc
+│   │   │       ├── Ch7.doc
+│   │   │       ├── Ch8_9_key.doc
+│   │   │       ├── Ch8_9.doc
+│   │   │       ├── exam1_rev.docx
+│   │   │       ├── exam2_rev.docx
+│   │   │       ├── Extra Binomial problems.docx
+│   │   │       ├── final_review_key.docx
+│   │   │       ├── final_review.docx
+│   │   │       └── S14BIOL491syllabus_BIOL300.doc
+│   │   ├── 2017_groups
+│   │   │   ├── 2016BIOL300 DGL Application-Final.docx
+│   │   │   ├── apps
+│   │   │   │   ├── AdajarDGapplication.pdf
+│   │   │   │   ├── Alec_Brennan_Transcript.pdf
+│   │   │   │   ├── Alexis_Francis_biolDGLapplication.docx
+│   │   │   │   ├── Alexis_Francis_unofficial transcript.pdf
+│   │   │   │   ├── AndersenCodyDGapplication.doc
+│   │   │   │   ├── AndersenCodySchedule.png
+│   │   │   │   ├── BrennanDGapplicationBIOL300.pdf
+│   │   │   │   ├── BreslowDGapplication.pdf
+│   │   │   │   ├── DaleDGapplication(2).docx
+│   │   │   │   ├── Ewing_Spring 2016 TRANSCRIPT.pdf
+│   │   │   │   ├── EwingDGapplication.pdf
+│   │   │   │   ├── J_Dale_Transcript 4_10_2016.pdf
+│   │   │   │   ├── JarettDGapplication.pdf
+│   │   │   │   ├── Jarrett_Application Essay.pdf
+│   │   │   │   ├── Jarrett_Unofficial Transcript.pdf
+│   │   │   │   ├── Jonathan Ta UNR Unofficial Transcript as of 4-25-16.pdf
+│   │   │   │   ├── KafleDGApplication-1.pdf
+│   │   │   │   ├── KafleDGApplication.pdf
+│   │   │   │   ├── KohlerDGapplication.docx
+│   │   │   │   ├── Maynard_Spring 2016 Unofficial Transcript.pdf
+│   │   │   │   ├── MaynardDGapplication.docx
+│   │   │   │   ├── Mendoza_transcriptFall2015.pdf
+│   │   │   │   ├── MendozaDGapplication.docx
+│   │   │   │   ├── Novenschi_sabrina_DGApplication.docx
+│   │   │   │   ├── NovenschiDGApplication.docx
+│   │   │   │   ├── PizioDGApplication2-1.docx
+│   │   │   │   ├── PizioDGApplication2.docx
+│   │   │   │   ├── PizioUnofficialTranscript-1.pdf
+│   │   │   │   ├── PizioUnofficialTranscript.pdf
+│   │   │   │   ├── ShetaDGapplication-1.pdf
+│   │   │   │   ├── ShetaDGapplication.pdf
+│   │   │   │   ├── ShetaTranscript-1.pdf
+│   │   │   │   ├── ShetaTranscript.pdf
+│   │   │   │   └── TaDGapplication.docx
+│   │   │   ├── DG_schedule_SP2017.xlsx
+│   │   │   ├── DGapplicationBIOL300.docx
+│   │   │   ├── DGapplicationBIOL300.pdf
+│   │   │   ├── F17BIOLDGLeadershipApp.pdf
+│   │   │   ├── jordan_fall2016.docx
+│   │   │   └── worksheets
+│   │   │       ├── attendance
+│   │   │       │   ├── Adam.gsheet
+│   │   │       │   ├── Alex.gsheet
+│   │   │       │   ├── Amy.gsheet
+│   │   │       │   ├── Austin.gsheet
+│   │   │       │   ├── Cody.gsheet
+│   │   │       │   ├── Donovan.gsheet
+│   │   │       │   ├── Jordan.gsheet
+│   │   │       │   ├── Juan.gsheet
+│   │   │       │   ├── Julia.gsheet
+│   │   │       │   ├── Kendal.gsheet
+│   │   │       │   ├── Kevin.gsheet
+│   │   │       │   ├── Lauren.gsheet
+│   │   │       │   └── Roxann.gsheet
+│   │   │       ├── Ch 5p1.PDF
+│   │   │       ├── Ch. 22 #25 Key.pdf
+│   │   │       ├── Ch. 22 #25.docx
+│   │   │       ├── CH1 p1 Key.PDF
+│   │   │       ├── CH1 p2 Key.PDF
+│   │   │       ├── Ch1.doc
+│   │   │       ├── Ch10.doc
+│   │   │       ├── Ch11.doc
+│   │   │       ├── Ch11key.doc
+│   │   │       ├── Ch13.doc
+│   │   │       ├── Ch13key.doc
+│   │   │       ├── Ch14_15.doc
+│   │   │       ├── Ch14_15.doc.gdoc
+│   │   │       ├── Ch14_15key.doc
+│   │   │       ├── Ch16.doc
+│   │   │       ├── CH18_key.docx
+│   │   │       ├── CH18.docx
+│   │   │       ├── CH2 p1 Key.PDF
+│   │   │       ├── CH2 p2 Key.PDF
+│   │   │       ├── CH2 p3 Key.PDF
+│   │   │       ├── CH2 p4 Key.pdf
+│   │   │       ├── Ch2.doc
+│   │   │       ├── Ch22.doc
+│   │   │       ├── Ch22key.doc
+│   │   │       ├── CH3 p1 Key.PDF
+│   │   │       ├── CH3 p2 Key.PDF
+│   │   │       ├── CH3 p3 Key.PDF
+│   │   │       ├── CH3 p4 Key.PDF
+│   │   │       ├── Ch3.doc
+│   │   │       ├── CH4 p1 Key.PDF
+│   │   │       ├── CH4 p2 Key.PDF
+│   │   │       ├── CH4 p3 Key.PDF
+│   │   │       ├── CH4 p4 Key.PDF
+│   │   │       ├── Ch4.doc
+│   │   │       ├── Ch5 p2.PDF
+│   │   │       ├── Ch5 p3.PDF
+│   │   │       ├── Ch5.doc
+│   │   │       ├── Ch7_key.doc
+│   │   │       ├── Ch7.doc
+│   │   │       ├── Ch8_9_key.doc
+│   │   │       ├── Ch8_9.doc
+│   │   │       ├── exam1_rev_key.docx
+│   │   │       ├── exam1_review.docx
+│   │   │       ├── Exam1Review_S15 (1).pptx
+│   │   │       ├── Exam1Review_S15.pptx
+│   │   │       ├── Exam1Review_S15.pptx.gslides
+│   │   │       ├── exam2_rev.docx
+│   │   │       ├── exam2_rev.docx.gdoc
+│   │   │       ├── Extra Binomial problems.docx
+│   │   │       ├── final_review_key.docx
+│   │   │       ├── final_review_key.docx.gdoc
+│   │   │       ├── final_review.docx
+│   │   │       ├── IMG_0704.JPG
+│   │   │       ├── Most_missed_SP16_key.docx
+│   │   │       └── Most_missed_SP16.docx
+│   │   ├── 2018_groups
+│   │   │   ├── apps
+│   │   │   │   ├── 4.24.17 Transcript.pdf
+│   │   │   │   ├── Acosta-DGapplicationBIOL300.docx
+│   │   │   │   ├── AdajarDGapplication.pdf
+│   │   │   │   ├── AJC RECENT UNR TRANSCRIPT.pdf
+│   │   │   │   ├── AJC TMCC Transcript.pdf
+│   │   │   │   ├── AJC UNLV TRANSCRIPT.pdf
+│   │   │   │   ├── ArballoDGapplicationB300.docx
+│   │   │   │   ├── Bosse_DGapplicationBIOL300 Fall 2017.docx
+│   │   │   │   ├── Brennan2017DGapplicationBIOL300.pdf
+│   │   │   │   ├── CRUZDGapplication.docx
+│   │   │   │   ├── DavisDGapplicationBIOL300.docx
+│   │   │   │   ├── DG2017Transcript.pdf
+│   │   │   │   ├── DGapplication Essay.docx
+│   │   │   │   ├── DGapplicationBIOL300-1.docx
+│   │   │   │   ├── DGapplicationBIOL300-2.docx
+│   │   │   │   ├── DGapplicationBIOL300.docx
+│   │   │   │   ├── DGapplicationBIOL300.pdf
+│   │   │   │   ├── Donovan Kohler transcipt.pdf
+│   │   │   │   ├── DuvernayDGApplication.docx
+│   │   │   │   ├── DuvernayDGapplicationEssay.docx
+│   │   │   │   ├── DuvernayDGapplicationUnofficalTranscript.pdf
+│   │   │   │   ├── fwdbiol300discussiongroupleaderapplicationnikeshm.zip
+│   │   │   │   ├── Genetics Discussion Group Leader Essay.docx
+│   │   │   │   ├── Genetics discussion group leader.docx
+│   │   │   │   ├── good
+│   │   │   │   │   ├── AJC RECENT UNR TRANSCRIPT.pdf
+│   │   │   │   │   ├── AJC TMCC Transcript.pdf
+│   │   │   │   │   ├── AJC UNLV TRANSCRIPT.pdf
+│   │   │   │   │   ├── CRUZDGapplication.docx
+│   │   │   │   │   ├── DuvernayDGApplication.docx
+│   │   │   │   │   ├── DuvernayDGapplicationEssay.docx
+│   │   │   │   │   ├── DuvernayDGapplicationUnofficalTranscript.pdf
+│   │   │   │   │   ├── Unofficial Transcript-5.pdf
+│   │   │   │   │   └── WangDGapplication.doc
+│   │   │   │   ├── HettichDGapplication.docx
+│   │   │   │   ├── Jensen_UnofficialTranscript.pdf
+│   │   │   │   ├── JensenDGapplication.doc.docx
+│   │   │   │   ├── Karla Molina DGapplicationBIOL300.docx
+│   │   │   │   ├── KohlerDGapplicationBIOL300.docx
+│   │   │   │   ├── LemmonDGapplication.docx
+│   │   │   │   ├── Magbitang, Application.pdf
+│   │   │   │   ├── Magbitang,DLApplication.docx
+│   │   │   │   ├── maybe
+│   │   │   │   │   ├── 4.24.17 Transcript.pdf
+│   │   │   │   │   ├── Acosta-DGapplicationBIOL300.docx
+│   │   │   │   │   ├── Aikins300DGapplication..pdf
+│   │   │   │   │   ├── Aikins300DGapplication.pdf
+│   │   │   │   │   ├── ArballoDGapplicationB300.docx
+│   │   │   │   │   ├── DGapplicationBIOL300.docx
+│   │   │   │   │   ├── Genetics discussion group leader.docx
+│   │   │   │   │   ├── LemmonDGapplication.docx
+│   │   │   │   │   ├── Magbitang, Application.pdf
+│   │   │   │   │   ├── Magbitang,DLApplication.docx
+│   │   │   │   │   ├── McKinneyDGapplication300.docx
+│   │   │   │   │   ├── NavarroDGApplication.docx
+│   │   │   │   │   ├── OctavianoDGapplication.docx
+│   │   │   │   │   ├── Rika McKinney Sp17 UO Transcript.pdf
+│   │   │   │   │   ├── SellaDGapplicationBIOL300-1.docx
+│   │   │   │   │   ├── SellaDGapplicationBIOL300.docx
+│   │   │   │   │   ├── Singh, Sahajpreet Unofficial Transcript.pdf
+│   │   │   │   │   ├── SinghDGapplication.docx
+│   │   │   │   │   ├── Spring 2017 .pdf
+│   │   │   │   │   ├── SSR_TSRPT.pdf
+│   │   │   │   │   ├── SSR_TSRPT(1).pdf
+│   │   │   │   │   ├── transcript-1.pdf
+│   │   │   │   │   ├── transcript.pdf
+│   │   │   │   │   ├── Unofficial Transcript-2.pdf
+│   │   │   │   │   ├── Unofficial Transcript-3.pdf
+│   │   │   │   │   └── unofficial transcript.pdf
+│   │   │   │   ├── McKinneyDGapplication300.docx
+│   │   │   │   ├── Mishra300DGapplication - transcript.pdf
+│   │   │   │   ├── Mishra300DGapplication.pdf
+│   │   │   │   ├── MooreDGapplication.docx
+│   │   │   │   ├── NavarroDGApplication.docx
+│   │   │   │   ├── no
+│   │   │   │   │   ├── DavisDGapplicationBIOL300.docx
+│   │   │   │   │   ├── DGapplicationBIOL300-2.docx
+│   │   │   │   │   ├── HettichDGapplication.docx
+│   │   │   │   │   ├── Jensen_UnofficialTranscript.pdf
+│   │   │   │   │   ├── JensenDGapplication.doc.docx
+│   │   │   │   │   ├── Spring 2017 transcript.pdf
+│   │   │   │   │   ├── Unofficial Transcript Fall 2016.pdf
+│   │   │   │   │   └── Unofficial Transcript-4.pdf
+│   │   │   │   ├── NovenschiDGapplication.docx
+│   │   │   │   ├── OctavianoDGapplication.docx
+│   │   │   │   ├── returning
+│   │   │   │   │   ├── AdajarDGapplication.pdf
+│   │   │   │   │   ├── Bosse_DGapplicationBIOL300 Fall 2017.docx
+│   │   │   │   │   ├── Brennan2017DGapplicationBIOL300.pdf
+│   │   │   │   │   ├── DG2017Transcript.pdf
+│   │   │   │   │   ├── DGapplicationBIOL300.pdf
+│   │   │   │   │   ├── Donovan Kohler transcipt.pdf
+│   │   │   │   │   ├── KohlerDGapplicationBIOL300.docx
+│   │   │   │   │   ├── MooreDGapplication.docx
+│   │   │   │   │   ├── NovenschiDGapplication.docx
+│   │   │   │   │   ├── unofficial transcript spring 2017.pdf
+│   │   │   │   │   ├── Unofficial Transcript- Kathryn Moore.pdf
+│   │   │   │   │   ├── Unofficial Transcript-1.pdf
+│   │   │   │   │   └── WelcomeDGapplication.docx
+│   │   │   │   ├── Rika McKinney Sp17 UO Transcript.pdf
+│   │   │   │   ├── RolshovenDGapplication.docx
+│   │   │   │   ├── RolshovenDGapplication.pdf
+│   │   │   │   ├── SellaDGapplicationBIOL300-1.docx
+│   │   │   │   ├── SellaDGapplicationBIOL300.docx
+│   │   │   │   ├── Singh, Sahajpreet Unofficial Transcript.pdf
+│   │   │   │   ├── SinghDGapplication.docx
+│   │   │   │   ├── Spring 2017 .pdf
+│   │   │   │   ├── Spring 2017 transcript.pdf
+│   │   │   │   ├── SSR_TSRPT.pdf
+│   │   │   │   ├── SSR_TSRPT(1).pdf
+│   │   │   │   ├── transcript-1.pdf
+│   │   │   │   ├── transcript.pdf
+│   │   │   │   ├── Unofficial Transcript Fall 2016.pdf
+│   │   │   │   ├── unofficial transcript spring 2017.pdf
+│   │   │   │   ├── Unofficial Transcript Spring.pdf
+│   │   │   │   ├── Unofficial Transcript- Kathryn Moore.pdf
+│   │   │   │   ├── Unofficial Transcript-1.pdf
+│   │   │   │   ├── Unofficial Transcript-2.pdf
+│   │   │   │   ├── Unofficial Transcript-3.pdf
+│   │   │   │   ├── Unofficial Transcript-4.pdf
+│   │   │   │   ├── Unofficial Transcript-5.pdf
+│   │   │   │   ├── unofficial transcript.pdf
+│   │   │   │   ├── WangDGapplication.doc
+│   │   │   │   └── WelcomeDGapplication.docx
+│   │   │   ├── BIOL300Leader Eval V2.docx
+│   │   │   ├── DGapplicationBIOL300.docx
+│   │   │   ├── DGapplicationBIOL300.pdf
+│   │   │   ├── F18NewLeaderAppBIOL300.docx
+│   │   │   └── F18NewLeaderAppBIOL300V2.docx
+│   │   ├── 2019_groups
+│   │   │   ├── F18NewLeaderAppBIOL300V2.docx
+│   │   │   ├── F18NewLeaderAppBIOL300V2(3).pdf
+│   │   │   ├── SANDSTROM_F19 BIOL300MDG Application.docx
+│   │   │   ├── todo_scheduling.txt
+│   │   │   └── YONAN_F19 BIOL 300 Optional DL Application.docx
+│   │   ├── 2020_groups
+│   │   │   ├── BIO300 Sp 2020 Discussion Points.xlsx
+│   │   │   ├── F20 BIOL 300 Optional New DL Application.docx
+│   │   │   ├── F20 BIOL 300 Optional Returning DL Application.docx
+│   │   │   ├── interview_notes.txt
+│   │   │   ├── letter_accept.docx
+│   │   │   ├── letter_DG_denial.docx
+│   │   │   ├── mentor_meeting_notes.txt
+│   │   │   ├── New Leader Evaluation.docx
+│   │   │   └── S20 BIOL 300 Interview Qs.docx
+│   │   ├── 2021_groups
+│   │   │   ├── Barlaan.docx
+│   │   │   ├── Chevychalova.docx
+│   │   │   ├── F21BIOL300Application_OptionalDG.docx
+│   │   │   ├── Konnor_form.docx
+│   │   │   ├── Mabanta.docx
+│   │   │   ├── MentorMeetingOne.txt
+│   │   │   ├── Scores_DGinterviews.xlsx
+│   │   │   └── Wolfe_form.docx
+│   │   ├── 2022_groups
+│   │   │   ├── 3_27_mentor_meeting.txt
+│   │   │   ├── F22BIOL300Application_OptionalDG.docx
+│   │   │   ├── F22BIOL300Application_OptionalDG[37].docx
+│   │   │   ├── F22BIOL300ReturningApplication_Optional.docx
+│   │   │   ├── F22BIOL300ReturningApplication_Optional[98].docx
+│   │   │   ├── final_mentor_meeting.txt
+│   │   │   ├── S22BIOL300Application_OptionalDG.docx
+│   │   │   └── S22BIOL300ReturningApplication_Optional.docx
+│   │   └── 2023_groups
+│   │       ├── Biology Help Center S23 Flyer[80].pdf
+│   │       ├── F23BIOL300Application_OptionalDG.docx
+│   │       ├── F23BIOL300ReturningApplication_Optional.docx
+│   │       ├── FRLA2_gel.jpg
+│   │       └── returning_candidates.txt
+│   ├── other_profs
+│   │   ├── berninsione
+│   │   │   ├── BIO 300Fall2013-Syll v1(1).pdf
+│   │   │   ├── EXAM 1 Fall 2013 v2.doc
+│   │   │   └── EXAMPLE_EXAM1.docx
+│   │   └── kidd_2011
+│   │       ├── 5th Ed Prob Cheat.docx
+│   │       ├── BIOL 300 4th ed Answers.docx
+│   │       ├── BIOL 300 guest.pptx
+│   │       ├── Chap One Extra Questions.docx
+│   │       ├── Chap Two Extra Questions.docx
+│   │       ├── CHAPTER 3 fourth edition.docx
+│   │       ├── Chapter 4 4th edition.docx
+│   │       ├── Chapter One Fifth Edition Answers.docx
+│   │       ├── Exam 1 S11 pink.docx
+│   │       ├── Exam 1 S11 Scoring guide.docx
+│   │       ├── Exam 1 S11 soln.docx
+│   │       ├── Exam 1 S11.docx
+│   │       ├── Exam 1 S11.pptx
+│   │       ├── Exam 2 S11 soln.pdf
+│   │       ├── Exam 2 S11.pptx
+│   │       ├── Exam 2 Spring 2011 Scoring Guide.docx
+│   │       ├── Exam 3 S11 scoring guide.doc
+│   │       ├── Exam 3 S11 soln.docx
+│   │       ├── Exam 4 F04.pdf
+│   │       ├── Exam 4 F05.pdf
+│   │       ├── Exam 4 S05.pdf
+│   │       ├── Exam 4 S09 soln.pdf
+│   │       ├── Exam 4 S09.pdf
+│   │       ├── Exam 4 S10 soln.pdf
+│   │       ├── Exam 4 S10.pdf
+│   │       ├── Exam 4 S11 pink.docx
+│   │       ├── Exam 4 S11 soln.docx
+│   │       ├── Exam 4 S11.docx
+│   │       ├── Exam 4 S11.pptx
+│   │       ├── Exam2 S11 soln.docx
+│   │       ├── Exam2 S11.docx
+│   │       ├── Extra Final S11.docx
+│   │       ├── Final Exam Material.pptx
+│   │       ├── Final Exam S07.doc
+│   │       ├── Final Exam S07.docx
+│   │       ├── Final Exam S07.pdf
+│   │       ├── L0 BIOL 300 S11.pptx
+│   │       ├── L1 BIOL 300 S11.pptx
+│   │       ├── L10 BIOL 300 S11.pptx
+│   │       ├── L11 BIOL 300 S11.pptx
+│   │       ├── L12 BIOL 300 S11.pptx
+│   │       ├── L13 BIOL 300 S11.pptx
+│   │       ├── L14 BIOL 300 S11.pptx
+│   │       ├── L15 BIOL 300 S11.pptx
+│   │       ├── L16 BIOL 300 S11.pptx
+│   │       ├── L17 BIOL 300 S11.pptx
+│   │       ├── L18 BIOL 300 S11.pptx
+│   │       ├── L19 BIOL 300 S11.pptx
+│   │       ├── L2 BIOL 300 S11.pptx
+│   │       ├── L20 BIOL 300 S11.pptx
+│   │       ├── L21 BIOL 300 S11.pptx
+│   │       ├── L22 BIOL300 S11.pptx
+│   │       ├── L23 BIOL 300 S11.pptx
+│   │       ├── L24 BIOL 300 S10.pptx
+│   │       ├── L24a BIOL 300 S11.pptx
+│   │       ├── L3 BIOL 300 S11.pptx
+│   │       ├── L4 BIOL 300 S11.pptx
+│   │       ├── L5 BIOL 300 S11.pptx
+│   │       ├── L6 BIOL 300 S11.pptx
+│   │       ├── L7 BIOL 300 S11.pptx
+│   │       ├── L8 BIOL 300 S11.pptx
+│   │       ├── L9 BIOL 300 S11.pptx
+│   │       ├── Perspective BIOL 300 S11.pptx
+│   │       ├── Sample Exam 1 Solutions.doc
+│   │       ├── Sample Exam 1 Solutions.pdf
+│   │       ├── Sample Exam 1s.doc
+│   │       ├── Sample Exam 1s.pdf
+│   │       ├── Sample Exam 2s.pdf
+│   │       ├── Sample Exams 3.pdf
+│   │       ├── Sample Final Exams soln.doc
+│   │       ├── Sample Final Exams soln.pdf
+│   │       ├── Sample Final Exams.pdf
+│   │       └── TA help Session.pptx
+│   ├── pearson_slides
+│   │   ├── _Ch07_Lecture_Presentation.ppt
+│   │   ├── 01_lecture_presentation_mac
+│   │   │   └── Chapter_01
+│   │   │       ├── _Ch01_Lecture_Presentation.ppt
+│   │   │       ├── Avery_Experiment.html
+│   │   │       ├── Avery_Experiment.swf
+│   │   │       ├── Phylogenetic_Trees.html
+│   │   │       ├── Phylogenetic_Trees.swf
+│   │   │       └── Thumbs.db
+│   │   ├── 02_Lecture_Presentation_Mac
+│   │   │   ├── 02_Labeled_Images
+│   │   │   │   ├── 02_00Figure-L.jpg
+│   │   │   │   ├── 02_01ExperInsightUN01_Pg44-L.jpg
+│   │   │   │   ├── 02_01Figure-L.jpg
+│   │   │   │   ├── 02_01GenAnalysisUN01_Pg37-L.jpg
+│   │   │   │   ├── 02_01GenAnalysisUN01Table_Pg37-L.jpg
+│   │   │   │   ├── 02_01Table-L.jpg
+│   │   │   │   ├── 02_02Figure-L.jpg
+│   │   │   │   ├── 02_02GenAnalysisUN01_Pg40-L.jpg
+│   │   │   │   ├── 02_02GenAnalysisUN02_Pg40-L.jpg
+│   │   │   │   ├── 02_02GenAnalysisUN03_Pg40-L.jpg
+│   │   │   │   ├── 02_02GenAnalysisUN04_Pg40-L.jpg
+│   │   │   │   ├── 02_02GenAnalysisUN05_Pg40-L.jpg
+│   │   │   │   ├── 02_02GenAnalysisUN06_Pg40-L.jpg
+│   │   │   │   ├── 02_02Table-L.jpg
+│   │   │   │   ├── 02_03Figure-L.jpg
+│   │   │   │   ├── 02_03GenAnalysisUN01_Pg43-L.jpg
+│   │   │   │   ├── 02_03GenAnalysisUN02_Pg43-L.jpg
+│   │   │   │   ├── 02_03Table-L.jpg
+│   │   │   │   ├── 02_04Figure-L.jpg
+│   │   │   │   ├── 02_04Table-L.jpg
+│   │   │   │   ├── 02_05Figure-L.jpg
+│   │   │   │   ├── 02_05FigureA-L.jpg
+│   │   │   │   ├── 02_05FigureB-L.jpg
+│   │   │   │   ├── 02_05Table-L.jpg
+│   │   │   │   ├── 02_06Figure-L.jpg
+│   │   │   │   ├── 02_06Table-L.jpg
+│   │   │   │   ├── 02_07Figure-L.jpg
+│   │   │   │   ├── 02_08Figure-L.jpg
+│   │   │   │   ├── 02_09Figure-L.jpg
+│   │   │   │   ├── 02_10Figure-L.jpg
+│   │   │   │   ├── 02_11Figure-L.jpg
+│   │   │   │   ├── 02_12Figure-L.jpg
+│   │   │   │   ├── 02_12FigureA-L.jpg
+│   │   │   │   ├── 02_12FigureB-L.jpg
+│   │   │   │   ├── 02_13Figure-L.jpg
+│   │   │   │   ├── 02_14Figure-L.jpg
+│   │   │   │   ├── 02_15Figure-L.jpg
+│   │   │   │   ├── 02_16Figure-L.jpg
+│   │   │   │   ├── 02_17Figure-L.jpg
+│   │   │   │   ├── 02_18Figure-L.jpg
+│   │   │   │   ├── 02_19Figure-L.jpg
+│   │   │   │   ├── 02_20Figure-L.jpg
+│   │   │   │   ├── 02_21Figure-L.jpg
+│   │   │   │   ├── 02_21FigureA-L.jpg
+│   │   │   │   ├── 02_21FigureB-L.jpg
+│   │   │   │   ├── 02_UN01Figure_Pg58-L.jpg
+│   │   │   │   ├── 02_UN01Table_Pg61-L.jpg
+│   │   │   │   ├── 02_UN02Figure_Pg59-L.jpg
+│   │   │   │   ├── 02_UN02Table_Pg61-L.jpg
+│   │   │   │   ├── 02_UN03Figure_Pg60-L.jpg
+│   │   │   │   ├── 02_UN03Table_Pg61-L.jpg
+│   │   │   │   ├── 02_UN04Figure_Pg60-L.jpg
+│   │   │   │   └── 02_UN04Table_Pg62-L.jpg
+│   │   │   ├── 02_Lecture_Presentation_Mac.pptx
+│   │   │   ├── Chi_Square.htm
+│   │   │   ├── Chi_square.swf
+│   │   │   ├── HumanPedigrees_1.htm
+│   │   │   ├── HumanPedigrees_1.swf
+│   │   │   ├── HumanPedigrees_2.htm
+│   │   │   ├── HumanPedigrees_2.swf
+│   │   │   ├── HumanPedigrees_Example1.htm
+│   │   │   ├── HumanPedigrees_Example1.swf
+│   │   │   ├── HumanPedigrees_Example2.htm
+│   │   │   ├── HumanPedigrees_Example2.swf
+│   │   │   ├── IndependAssortment.htm
+│   │   │   ├── IndependAssortment.swf
+│   │   │   ├── Mendel's Principle of Segregation.htm
+│   │   │   └── Mendel's Principle of Segregation.swf
+│   │   ├── 03_lecture_presentation_mac
+│   │   │   └── Chapter_03
+│   │   │       ├── _Ch03_Lecture_Presentation.ppt
+│   │   │       ├── gene_segregation.html
+│   │   │       ├── gene_segregation.swf
+│   │   │       ├── Meiosis_Disjunction_1.html
+│   │   │       ├── Meiosis_Disjunction_1.swf
+│   │   │       ├── Meiosis_Disjunction_2ex.html
+│   │   │       ├── Meiosis_Disjunction_2ex.swf
+│   │   │       ├── Meiosis_Disjunction_3ex.html
+│   │   │       ├── Meiosis_Disjunction_3ex.swf
+│   │   │       ├── meiosis.html
+│   │   │       ├── meiosis.swf
+│   │   │       ├── mitosis.html
+│   │   │       ├── mitosis.swf
+│   │   │       ├── reg_cell_division.html
+│   │   │       ├── reg_cell_division.swf
+│   │   │       ├── sex_Drosophila.html
+│   │   │       ├── sex_Drosophila.swf
+│   │   │       ├── Thumbs.db
+│   │   │       ├── X_linked_inherit.html
+│   │   │       └── X_linked_inherit.swf
+│   │   ├── 04_lecture_presentation_mac
+│   │   │   └── Chapter_04
+│   │   │       ├── _Ch04_Lecture_Presentation.ppt
+│   │   │       ├── 13_ani_Incomp_Codominan.html
+│   │   │       ├── 13_ani_Incomp_Codominan.swf
+│   │   │       ├── 15_ani_complement_test.html
+│   │   │       └── 15_ani_complement_test.swf
+│   │   ├── 05_lecture_presentation_mac
+│   │   │   └── Chapter_05
+│   │   │       ├── _Ch05_Lecture_Presentation.ppt
+│   │   │       ├── 14_ani_gene_recomb.html
+│   │   │       ├── 14_ani_gene_recomb.swf
+│   │   │       ├── Linkage_Recombination_1.html
+│   │   │       ├── Linkage_Recombination_1.swf
+│   │   │       ├── Linkage_Recombination_2.html
+│   │   │       ├── Linkage_Recombination_2.swf
+│   │   │       ├── Linkage_Recombination_3.html
+│   │   │       ├── Linkage_Recombination_3.swf
+│   │   │       ├── Linkage_Recombination_4.html
+│   │   │       ├── Linkage_Recombination_4.swf
+│   │   │       ├── LinkedGenes_Mapping_1.html
+│   │   │       ├── LinkedGenes_Mapping_1.swf
+│   │   │       ├── LinkedGenes_Mapping_2.html
+│   │   │       ├── LinkedGenes_Mapping_2.swf
+│   │   │       ├── LinkedGenes_Mapping_3.html
+│   │   │       ├── LinkedGenes_Mapping_3.swf
+│   │   │       ├── ThreePointMapping_1.html
+│   │   │       ├── ThreePointMapping_1.swf
+│   │   │       ├── ThreePointMapping_2ex.html
+│   │   │       ├── ThreePointMapping_2ex.swf
+│   │   │       ├── ThreePointMapping_3ex.html
+│   │   │       ├── ThreePointMapping_3ex.swf
+│   │   │       ├── ThreePointMapping_4ex.html
+│   │   │       ├── ThreePointMapping_4ex.swf
+│   │   │       ├── ThreePointMapping_5ex.html
+│   │   │       ├── ThreePointMapping_5ex.swf
+│   │   │       ├── ThreePointMapping_6ex.html
+│   │   │       ├── ThreePointMapping_6ex.swf
+│   │   │       ├── ThreePointMapping_7.html
+│   │   │       ├── ThreePointMapping_7.swf
+│   │   │       ├── ThreePointMapping_8ex.html
+│   │   │       ├── ThreePointMapping_8ex.swf
+│   │   │       ├── ThreePointMapping_9ex.html
+│   │   │       ├── ThreePointMapping_9ex.swf
+│   │   │       ├── Thumbs.db
+│   │   │       ├── VirtualCrossoverLab_1ex.html
+│   │   │       ├── VirtualCrossoverLab_1ex.swf
+│   │   │       ├── VirtualCrossoverLab_2ex.html
+│   │   │       ├── VirtualCrossoverLab_2ex.swf
+│   │   │       ├── VirtualCrossoverLab_3ex.html
+│   │   │       └── VirtualCrossoverLab_3ex.swf
+│   │   ├── 05_Test_Bank.doc
+│   │   ├── 11_Lecture_Presentation_Mac
+│   │   │   └── 11_Lecture_Presentation_MAC.pptx
+│   │   ├── 12_lecture_presentation_mac
+│   │   │   └── Chapter_12
+│   │   │       ├── _Ch12_Lecture_Presentation.ppt
+│   │   │       ├── 10_ani_test_gene_mutations.html
+│   │   │       ├── 10_ani_test_gene_mutations.swf
+│   │   │       ├── Ani_Ames_test.html
+│   │   │       ├── Ani_Ames_test.swf
+│   │   │       ├── mutagenic_5BU.html
+│   │   │       ├── mutagenic_5BU.swf
+│   │   │       ├── Mutations_DNA_Level_1.html
+│   │   │       ├── Mutations_DNA_Level_1.swf
+│   │   │       ├── Mutations_DNA_Level_2.html
+│   │   │       ├── Mutations_DNA_Level_2.swf
+│   │   │       ├── Mutations_DNA_Level_3.html
+│   │   │       ├── Mutations_DNA_Level_3.swf
+│   │   │       ├── Photoreactivation_Excision_1.html
+│   │   │       ├── Photoreactivation_Excision_1.swf
+│   │   │       ├── Photoreactivation_Excision_2.html
+│   │   │       ├── Photoreactivation_Excision_2.swf
+│   │   │       ├── Photoreactivation_Excision_3.html
+│   │   │       ├── Photoreactivation_Excision_3.swf
+│   │   │       ├── Photoreactivation_Excision_4.html
+│   │   │       ├── Photoreactivation_Excision_4.swf
+│   │   │       ├── Photoreactivation_Excision_5.html
+│   │   │       ├── Photoreactivation_Excision_5.swf
+│   │   │       ├── Thumbs.db
+│   │   │       ├── TP53.html
+│   │   │       └── TP53.swf
+│   │   ├── 13_lecture_presentation_mac
+│   │   │   └── Chapter_13
+│   │   │       ├── _Ch13_Lecture_Presentation.ppt
+│   │   │       ├── Aberrations_1.html
+│   │   │       ├── Aberrations_1.swf
+│   │   │       ├── Aberrations_2.html
+│   │   │       ├── Aberrations_2.swf
+│   │   │       ├── Aberrations_3.html
+│   │   │       ├── Aberrations_3.swf
+│   │   │       ├── Aberrations_4.html
+│   │   │       ├── Aberrations_4.swf
+│   │   │       ├── Aberrations_5ex.html
+│   │   │       ├── Aberrations_5ex.swf
+│   │   │       ├── Aberrations_6.html
+│   │   │       ├── Aberrations_6.swf
+│   │   │       ├── Aberrations_7ex.html
+│   │   │       ├── Aberrations_7ex.swf
+│   │   │       ├── crossover_heterozygo.html
+│   │   │       ├── crossover_heterozygo.swf
+│   │   │       ├── meiosis_trans_hetero.html
+│   │   │       ├── meiosis_trans_hetero.swf
+│   │   │       ├── nondisjunction.html
+│   │   │       ├── nondisjunction.swf
+│   │   │       ├── Polyploidy_2.html
+│   │   │       ├── Polyploidy_2.swf
+│   │   │       ├── Robertsonian_transl.html
+│   │   │       ├── Robertsonian_transl.swf
+│   │   │       ├── Thumbs.db
+│   │   │       ├── transposable.html
+│   │   │       └── transposable.swf
+│   │   ├── 13_Test_Bank.doc
+│   │   ├── 14_Lecture_Presentation_Mac
+│   │   │   ├── 14_Lecture_Presentation_MAC.pptx
+│   │   │   ├── Attenuation in the trp operon of E. Coli.htm
+│   │   │   ├── Attenuation in the trp operon of E. Coli.swf
+│   │   │   ├── GeneExpression_Prokary_1.htm
+│   │   │   ├── GeneExpression_Prokary_1.swf
+│   │   │   ├── GeneExpression_Prokary_2.htm
+│   │   │   ├── GeneExpression_Prokary_2.swf
+│   │   │   ├── GeneExpression_Prokary_3.htm
+│   │   │   ├── GeneExpression_Prokary_3.swf
+│   │   │   ├── GeneExpression_Prokary_4.htm
+│   │   │   ├── GeneExpression_Prokary_4.swf
+│   │   │   ├── GeneExpression_Prokary_Ex1.htm
+│   │   │   ├── GeneExpression_Prokary_Ex1.swf
+│   │   │   ├── GeneExpression_Prokary_Ex2.htm
+│   │   │   ├── GeneExpression_Prokary_Ex2.swf
+│   │   │   ├── GeneExpression_Prokary_Ex3.htm
+│   │   │   ├── GeneExpression_Prokary_Ex3.swf
+│   │   │   ├── Regulation of Expression of the lac operon Genes.htm
+│   │   │   └── Regulation of Expression of the lac operon Genes.swf
+│   │   └── 22_Test_Bank.doc
+│   ├── SP23_emaillist.txt
+│   ├── study_guides
+│   │   ├── Chapter 13 Study Guide.pdf
+│   │   ├── Chapter 3 Extra Problems.pdf
+│   │   ├── Chapter 4 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 4 Extra Problems.pdf
+│   │   ├── Chapter 5 Extra Problems_Sanders_key.pdf
+│   │   ├── Chapter 5 Extra Problems_Sanders.pdf
+│   │   ├── Chapter_1_study_guide.docx
+│   │   ├── Chapter_1_study_guide.pdf
+│   │   ├── Chapter_10_study_guide.docx
+│   │   ├── Chapter_10_study_guide.pdf
+│   │   ├── Chapter_11_study_guide.docx
+│   │   ├── Chapter_11_study_guide.pdf
+│   │   ├── Chapter_12_13_Study_Guide.doc
+│   │   ├── Chapter_13_study_guide.docx
+│   │   ├── Chapter_13_study_guide.pdf
+│   │   ├── Chapter_2_study_guide.docx
+│   │   ├── Chapter_2_study_guide.pdf
+│   │   ├── Chapter_20_study_guide.docx
+│   │   ├── Chapter_22_study_guide.pdf
+│   │   ├── Chapter_3_study_guide.docx
+│   │   ├── Chapter_3_study_guide.pdf
+│   │   ├── Chapter_4_study_guide.docx
+│   │   ├── Chapter_4_study_guide.pdf
+│   │   ├── Chapter_5_study_guide.docx
+│   │   ├── Chapter_5_study_guide.pdf
+│   │   ├── Chapter_7_study_guide.docx
+│   │   ├── Chapter_7_study_guide.pdf
+│   │   ├── Chapter_8_9_study_guide.docx
+│   │   ├── Chapter_8_9_study_guide.pdf
+│   │   ├── final_study_outline.docx
+│   │   ├── KEY Chapter 3 Extra Problems .pdf
+│   │   ├── Noor_inversions_2001.pdf
+│   │   ├── recommended_probs_chap2.docx
+│   │   ├── recommended_probs_chap22.docx
+│   │   ├── reiseberg_inversions_2001.pdf
+│   │   ├── sander_2nd_ed
+│   │   │   ├── S15Sanders text_ soln manual_2ndEd.doc
+│   │   │   ├── S15Sanders_2ndEd_Exam1.pdf
+│   │   │   └── Sanders_2nd_ed_exam_1_material.docx
+│   │   └── Sanders text_ soln manual.pdf
+│   ├── syllabi
+│   │   ├── _region_.log
+│   │   ├── _region_.prv
+│   │   ├── _region_.tex
+│   │   ├── BIOL300_SP21_Parchman.pdf
+│   │   ├── Chap20newKEY.webarchive
+│   │   ├── genetics_2021.aux
+│   │   ├── genetics_2021.log
+│   │   ├── genetics_2021.pdf
+│   │   ├── genetics_2021.synctex.gz
+│   │   ├── genetics_2021.tex
+│   │   ├── genetics.aux
+│   │   ├── genetics.bbl
+│   │   ├── genetics.blg
+│   │   ├── genetics.dvi
+│   │   ├── genetics.log
+│   │   ├── genetics.synctex.gz
+│   │   ├── genetics.tex
+│   │   ├── genetics.tex~
+│   │   ├── Parchman_BIOL300_SP2020_syllabus.pdf
+│   │   ├── Parchman_BIOL300_syllabus.pdf
+│   │   ├── prv_genetics.log
+│   │   ├── shacklefordetal_2021.pdf
+│   │   ├── SP23_Parchman_BIOL300.pdf
+│   │   ├── SP24_Parchman_BIOL300.pdf
+│   │   ├── SP25_Parchman_BIOL300.pdf
+│   │   └── SP26_Parchman_BIOL300.pdf
+│   ├── testbanks
+│   │   ├── ~$_Test_Bank.doc
+│   │   ├── 01_Test_Bank.doc
+│   │   ├── 02_Test_Bank.doc
+│   │   ├── 03_test_bank.doc
+│   │   ├── 04_Test_Bank.doc
+│   │   ├── 05_Test_Bank.doc
+│   │   ├── 07_Test_Bank.doc
+│   │   ├── 08_Test_Bank.doc
+│   │   ├── 09_Test_Bank.doc
+│   │   ├── 11_Test_Bank.doc
+│   │   ├── 12_Test_Bank-2.doc
+│   │   ├── 12_Test_Bank.doc
+│   │   ├── 13_Test_Bank.doc
+│   │   ├── 14_Test_Bank.doc
+│   │   ├── 18_Test_Bank.doc
+│   │   └── 22_Test_Bank.doc
+│   └── to_do.txt
+├── GRAD788
+│   ├── ~$afternoon_textprocessing.pptx
+│   ├── 2021_prepnotes.txt
+│   ├── afternoon_textprocessing.pptx
+│   ├── demo_notes_lecture.md
+│   ├── notes_on_WRD_VM_access.txt
+│   ├── notes_on_WRDT.txt
+│   └── TLP_GRAD778_Linux_outline-copy.md
+├── mol_ecol
+│   ├── perlFiles
+│   │   ├── add_pop_info.pl
+│   │   ├── files_forclass
+│   │   │   ├── add_pop_info.pl
+│   │   │   ├── id_list.txt
+│   │   │   ├── parse_barcodes768.pl
+│   │   │   ├── passerina_barcodes_key.csv
+│   │   │   ├── remove_quotes.pl
+│   │   │   └── splitFastq.pl
+│   │   ├── files_forclass.zip
+│   │   ├── GBS_workflow.pptx
+│   │   ├── id_list.txt
+│   │   ├── miderrors_passerinaExample.fastq
+│   │   ├── nielsenetal2012.pdf
+│   │   ├── parse_barcodes768.pl
+│   │   ├── passerina_barcodes_key.csv
+│   │   ├── PerlTutorial.docx
+│   │   ├── remove_quotes.pl
+│   │   ├── splitFastq.pl
+│   │   └── tran_common_loci.txt
+│   ├── PerlTutorial.pdf
+│   ├── snp_filtering_tutorial_TLP.docx
+│   ├── snp_filtering_tutorial.docx
+│   ├── unix_tutorial
+│   │   ├── unix_bwa_notes.txt
+│   │   ├── Unix_tutorial_one.pptx
+│   │   ├── unix_tutorial.docx
+│   │   └── unix_tutorial17.docx
+│   ├── unix_tutorial.pdf
+│   ├── UnixCommands-2.pdf
+│   └── unixfiles
+│       ├── passerina_ref.fasta
+│       ├── passerinaExample.fastq.zip
+│       ├── science.txt
+│       ├── Stephensetal2015.pdf
+│       ├── unix_buerkle.pdf
+│       ├── unixintro.pptx
+│       └── unixtut.tar.gz
+└── principles
+    ├── ~$3_W6_population_geneticsII_Parchman_outline.docx
+    ├── ~$week6_popgenII.pptx
+    ├── F23_W6_population_geneticsII_Parchman_outline.docx
+    ├── F24week6_popgenII.pptx
+    ├── F25_W6_population_geneticsII_Parchman_outline.docx
+    ├── F25week6_popgenII.pdf
+    ├── F25week6_popgenII.pptx
+    ├── matocq_materials
+    │   └── 2022_Week 5_Population Genetics 1_Matocq Handout.docx
+    ├── outline.docx
+    ├── papers
+    │   ├── Bay_etal_2018.pdf
+    │   ├── Bomblies and Peichel 2022 PNAS[6].pdf
+    │   ├── Connalon_etal_2021.pdf
+    │   ├── Ecology Letters - 2013 - Siepielski - The spatial patterns of directional phenotypic selection.pdf
+    │   ├── enbody_etal_2023.pdf
+    │   ├── gompert-et-al-2017.pdf
+    │   ├── grant_and_grant_2006.pdf
+    │   ├── Jay_etal_2018.pdf
+    │   ├── jones_etal_freshwater_marine_stickleback_standing_variation.pdf
+    │   ├── KingsolverPfennig.Bioscience.2007.pdf
+    │   ├── lai-et-al-2019-standing-genetic-variation-as-the-predominant-source-for-adaptation-of-a-songbird.pdf
+    │   ├── Orr_2005.pdf
+    │   ├── poelstra_etal_2014.pdf
+    │   ├── rockman_2012.pdf
+    │   ├── savolainen_etal_2013.pdf
+    │   ├── svensson_phenotypic_selection_review_2023.pdf
+    │   ├── todesco_etal_2020_nature.pdf
+    │   ├── weissenssteiner_etal_2020.pdf
+    │   ├── wilkinson_popgen_lecturenotes.pdf
+    │   └── wooldridge-et-al-2022-an-enhancer-of-agouti-contributes-to-parallel-evolution-of-cryptically-colored-beach-mice.pdf
+    ├── Peacock_EECB 703 Population Genetics II_2022[21].pdf
+    └── week6_popgenII.pptx
+
+220 directories, 2527 files

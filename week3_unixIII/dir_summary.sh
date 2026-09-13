@@ -1,7 +1,7 @@
 #!/bin/zsh
 # Tell the system to run this script using zsh.
 
-DIR="$1"
+DIR=$1
 # Store the first command-line argument in a variable called DIR.
 
 echo "Directory summary for: $DIR"
