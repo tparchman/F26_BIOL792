@@ -93,6 +93,8 @@ $ tr -d '\r' < windows_file.txt > unix_file.txt
 
 There are also dedicated tools like `dos2unix` and `unix2dos` (installable with `apt` or `brew`) that automate these conversions. But `tr` works universally and is worth learning as it can be generally applied to many instances where you need to replace one character with another.
 
+You will notice that similar operations below have different syntax than `tr`. This is because `tr` is designed as a stream filter, whereas `sed` knows how to open files itself.
+
 ## 3. Substituting and editing with `sed`
 
 `sed` (**S**tream **ED**itor) is a tool for making automated edits to text, one line at a time. It is extremely useful when you need to search, replace, or delete patterns across large files without opening them in an editor. `sed` reads input line by line, applies the edits you specify, and writes the results to STDOUT (or to a file if you redirect).

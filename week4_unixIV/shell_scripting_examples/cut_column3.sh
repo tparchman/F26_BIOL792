@@ -6,6 +6,6 @@
 echo $@
 
 for myfile in $@; do
-cut -f 3 $myfile &> column3_$myfile
+	cut -f 3 $myfile &> column3_$myfile
 done
 
