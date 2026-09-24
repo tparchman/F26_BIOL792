@@ -215,7 +215,7 @@ Below is a quick tutorial. For a more detailed primer on getting started go to t
 Launch Jupyter Notebook with:
 
 ```bash
-jupyter notebook
+$ jupyter-notebook
 ```
 This will open a browser window showing the contents of the current directory. (If it doesn't open automatically, copy the URL shown in the terminal into your browser.)
 
@@ -228,7 +228,7 @@ Creating a notebook:
 - Click into the first empty cell and type:
 
 ```py
-print("Hello from Jupyter!")s
+print("Hello from Jupyter!")
 ```
 
 - Run the cell with Shift + Enter, or hitting the `play` button at the top of the window. You'll see the output appear directly beneath the cell.
@@ -336,7 +336,7 @@ z = x * y
 print(z)
 ```
 
-We can use the `.type` function to check the type of variable>
+We can use the `.type` function to check the type of variable
 
 ```python
 type(x) ## will return int
@@ -458,13 +458,4 @@ AI platforms (such as ChatGPT, GitHub or VScode Copilots) can be powerful tools 
 - **Exploring new tools and libraries:** AI can suggest packages or commands you might not know about yet, which can broaden your toolbox faster.  
 
 **Note:** AI should be used as a guide and accelerator, not as a crutch. Always read, test, and understand the code yourself to make sure it does exactly what you intend. **In scientific coding, transparency and reproducibility depend on your ability to explain your work clearly**. There is no escaping this responsibility.
-
-
-## Note on Python 3 syntax updates and Haddock and Dunn.
-
- If you are using Haddock and Dunn text, be aware that it is based on python2, and there are some important differences between python2 and python3 (syntax changes that will require slight modification of book examples)
-
-
-1. print statements in python3 should use (). 
-2. `raw_input()` has become just `input()`
 
