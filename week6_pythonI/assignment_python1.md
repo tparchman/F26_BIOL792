@@ -1,90 +1,150 @@
-# Python assignment 1
+# Python Assignment 1: Scalars, Strings, and Basic Calculations
 
-## Topics to cover
-- Getting started
-- Basic mathematical operations
-- String operations
-- `input()`, converting strings to floats, float precision
+The goal of this assignment is to practice the Python concepts introduced this week: variables, strings, integers, floats, string methods, mathematical operations, `input()`, type conversion, and f-strings. For each problem, write a Python script (`.py` file) that accomplishes the requested tasks. Include comments in your code describing the major steps.
 
-<p>&nbsp;</p>
+## 1. Summarizing a DNA sequence
 
-# Writing some Python scripts to play with scalars and scalar functions.
+Start with the following DNA sequence:
 
-Before working through the below exercises, make sure to have read chapter 8, and built the specified python script as demonstrated in the chapter. This will give you some good experience/practice with assigning scalar variables and using some string functions.
-
-## 1. In addition to standard mathematical operators, the following are commonly useful. Make sure you understand what they do. Note that += will work with strings, the others will return undefined.
-
-
-    +=      *= 	    -= 	    /=	   
-
- ### Write a script that assigns integers, floats, and strings to some variables (perhaps as illustrated below), and test each of the above operators. Use print statements to allow you to track what is happening in your script(s).
-
-    Int_a = 7
-    Int_b = 3
-    Int_c = 2
-    Float1 = 3.33
-    Name1 = 'shipley'
-    Name2 = 'dog'
-
-<p>&nbsp;</p>
-
-
-## 2. Write a python script to calculate expected genotype frequencies in a population under Hardy Weinberg Equilibrium based on known allele frequencies at a gene with TWO alleles. As a reminder, a population under Hardy-Weinberg equilibrium has 3 genotype frequencies predictable from two known allele frequencies (p and q; p + q = 1):
-<p>&nbsp;</p>
-
-### p**2 + 2pq + q**2 = 1
-<p>&nbsp;</p>
-
-### Each of the 3 terms above represent the genotype frequencies (AA [p**2], Aa [2pq], aa [q**2)]). In other words, p**2 is the predicted frequency of the first homozygous genotype, 2pq is the predicted frequency of heterozygotes, and q**2 is the predicted frequency of the second homozygous genotype. Your script should require the entry of values p and q, and should print the calculated values of each expected genotype.
-<p>&nbsp;</p>
-
-### A couple of points here:
-
-- The program should use the `input()` function to prompt for the command line entry of two values (p and q; really you only need to supply one value because they must sum to 1) from the command line.
-
-- Depending on how you enter a number with a decimal, such as 0.8, python may automatically call this a string. If so, you will need to convert this to a float before performing mathematical operations.
-
-- You may also notice that the precision, and the number of digits after the decimal, for p\*\*2, 2pq, q\*\*2 will be excessive. Control the precision of the floats you print so that they only have *2 digit*s after the decimal (e.g., 0.66). For this you should use the `%` operator (e.g., `%.2f`)
-
-## 3. DNA sequences are good for string practice.
-
-Lets start with the top of a fasta formatted sequence downloaded from genbank. Copy into your python script:
-
-Copy this into your Python script or jupyter notebook:
-
-```python
-fasta = """>AY495386.1 Loxia curvirostra cytochrome b (cytb) gene, complete cds; mitochondrial
-ATGGCCCCAAATCTTCGTAAAAACCACCAAATCCTCAAAGTCATCAACAACGCCCTAATTGACCTACCCA
-CACCACCAAACATCTCAACATGATGAAACTTCGGGTCTCTACTGGGCATCTGCCTAATCACTCAAATCGT
-"""
+```py
+seq = "  atgctagCGATCGGctaacggttATGC  \n"
 ```
 
-### 1. Split Fasta header and sequence into two separate lines, one for ID, one for header.
+Write a script that:
 
-The header line starts with `>` and has information on the sequence. The sequence line has line endings every 60 characters, so you want to remove those line endings.
+1. Removes whitespace from the beginning and end of the sequence.
+2. Converts the entire sequence to uppercase.
+3. Determines the length of the sequence.
+4. Counts the number of `A`, `C`, `G`, and `T` bases.
+5. Calculates GC content as the proportion of bases that are either G or C.
+6. Creates an RNA version of the sequence by replacing `T` with `U`.
+7. Prints a clearly labeled summary of your results. Report GC content to three decimal places.
 
-Use three separate `print` statements to print the header, the DNA sequence, and the length of the DNA sequence. 
+Some Python tools that may be useful:
 
-Hints: use `str.split()` to split the one line of data on `\n` into multiple strings and to put those into a list. Then, the first element of the list will be the header, the remaining will be lines of DNA. The latter will need to be joined together using `"".join(string_name)
+```py
+seq.strip()
+seq.upper()
+len(seq)
+seq.count("A")
+seq.replace("T", "U")
+```
 
-### 2. Count the number of occurrences of each base.
+Remember that an f-string can be used to produce clean output:
 
-Count how many of each base (A, C, G, T).
+```py
+print(f"Sequence length: {length} bases")
+print(f"GC content: {gc_content:.3f}")
+```
 
-Hints: use the string variable you created above of just the DNA sequence all in one scalar. Use the `str.count()` string function, such as `String_name.count("A")` to count the numbers of each base.
+---
 
-### 3. GC content
+## 2. Expected genotype frequencies under Hardy-Weinberg equilibrium
 
-Calculate the GC% and print with two decimal places. This is the counts of G plus the counts of C divided by total sequence length.
+Write a Python script that calculates expected genotype frequencies under Hardy-Weinberg equilibrium for a locus with two alleles, `A` and `a`.
 
-### 4. Lets replace all `T` bases with `U`
+Recall that:
 
-Hint: `use str.replace()`
+**p + q = 1**
 
-### 5. Print the first and last base of the sequence string
+and expected genotype frequencies are:
 
-Good for learning how to slice strings. You can use the string in list context, i.e. `sequence[0]` and `sequence.[-1]`
+**AA = p²**
 
-### 6.  Simple loop over sequence
+**Aa = 2pq**
 
-Print each base one at a time from the DNA sequence string. This will help you learn to iterate through a list of characters using a `for` loop.
+**aa = q²**
+
+Your program should:
+
+1. Use `input()` to ask the user for the frequency of allele A (`p`).
+2. Convert the value entered by the user to a float.
+3. Calculate the frequency of allele a (`q`).
+4. Calculate the expected frequencies of `AA`, `Aa`, and `aa`.
+5. Calculate the sum of the three genotype frequencies as a check.
+6. Print all allele and genotype frequencies to three decimal places.
+
+Remember that `input()` returns a string, so you will need to convert the input before doing calculations:
+
+```py
+p = float(input("Enter the frequency of allele A (p): "))
+```
+
+Your output should be clearly labeled and look something like:
+
+```text
+Allele frequencies:
+p = 0.350
+q = 0.650
+
+Expected genotype frequencies:
+AA = 0.123
+Aa = 0.455
+aa = 0.423
+
+Check: genotype frequencies sum to 1.000
+```
+
+---
+
+## 3. Calculating allele frequencies from observed genotype counts
+
+Suppose you sampled a population and observed the following genotype counts:
+
+```text
+AA = 37
+Aa = 46
+aa = 17
+```
+
+Write a Python script that stores these values as variables and calculates:
+
+1. The total number of individuals sampled.
+2. The total number of copies of the gene sampled. Remember that each diploid individual carries two copies.
+3. The total number of `A` alleles in the sample.
+4. The total number of `a` alleles in the sample.
+5. The frequency of allele `A` (`p`).
+6. The frequency of allele `a` (`q`).
+7. The observed heterozygosity: the proportion of sampled individuals that have genotype `Aa`.
+8. A check showing that `p + q = 1`.
+
+Begin by storing the genotype counts as integers:
+
+```py
+AA = 37
+Aa = 46
+aa = 17
+```
+
+Think carefully about how many copies of each allele are contributed by each genotype. For example, an `AA` individual contributes **two A alleles**, while an `Aa` individual contributes **one A and one a allele**.
+
+Use f-strings to produce clearly labeled output, and report frequencies to three decimal places.
+
+---
+
+## 4. Find and fix the problem
+
+Consider the following Python code:
+
+```py
+sequence = "ATGCGTA"
+length = "7"
+
+print(length + 3)
+```
+
+Copy this code into Python and run it.
+
+1. What error does Python report?
+2. Use `type()` to determine the type of the variable `length`.
+3. Explain briefly why `length + 3` does not work.
+4. Fix the code **without changing the original assignment `length = "7"`** so that Python correctly prints `10`.
+
+The following may be useful:
+
+```py
+type(length)
+int(length)
+```
+
+Include your corrected code and, as a comment in the script, briefly explain what caused the original error.
