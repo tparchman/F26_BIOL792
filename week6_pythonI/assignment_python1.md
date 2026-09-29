@@ -2,7 +2,7 @@
 
 The goal of this assignment is to practice the Python concepts introduced this week: variables, strings, integers, floats, string methods, mathematical operations, `input()`, type conversion, and f-strings.
 
-For each problem, write a Python script (`.py` file) that accomplishes the requested tasks. Include comments in your code describing the major steps.
+For each problem, write a Python script (`.py` file) or write code in a `jupyter` notebook that accomplishes the requested tasks. Include comments in your code describing the major steps. 
 
 ---
 
@@ -13,18 +13,17 @@ Start with the following DNA sequence:
 ```py
 seq = "  atgctagCGATCGGctaacggttATGC  \n"
 ```
+Use python to:
 
-Write a script that:
+1. Remove whitespace from the beginning and end of the sequence.
+2. Convert the entire sequence to uppercase.
+3. Determine the length of the sequence.
+4. Count the number of `A`, `C`, `G`, and `T` bases.
+5. Calculats GC content as the proportion of bases that are either G or C.
+6. Create an RNA version of the sequence by replacing `T` with `U`.
+7. Print a summary of output of the above.
 
-1. Removes whitespace from the beginning and end of the sequence.
-2. Converts the entire sequence to uppercase.
-3. Determines the length of the sequence.
-4. Counts the number of `A`, `C`, `G`, and `T` bases.
-5. Calculates GC content as the proportion of bases that are either G or C.
-6. Creates an RNA version of the sequence by replacing `T` with `U`.
-7. Prints a clearly labeled summary of your results. Report GC content to three decimal places.
-
-Some Python tools that may be useful:
+Some tools that may be useful:
 
 ```py
 seq.strip()
@@ -47,7 +46,7 @@ print(f"GC content: {gc_content:.3f}")
 
 You are collecting data from a field study. At one sampling site, you counted the number of individuals of a species in a rectangular sampling plot.
 
-Write a Python script that asks the user for:
+Write python code that asks the user for:
 
 - the **length of the plot in meters**
 - the **width of the plot in meters**
