@@ -1,6 +1,10 @@
 # Python Assignment 1: Scalars, Strings, and Basic Calculations
 
-The goal of this assignment is to practice the Python concepts introduced this week: variables, strings, integers, floats, string methods, mathematical operations, `input()`, type conversion, and f-strings. For each problem, write a Python script (`.py` file) that accomplishes the requested tasks. Include comments in your code describing the major steps.
+The goal of this assignment is to practice the Python concepts introduced this week: variables, strings, integers, floats, string methods, mathematical operations, `input()`, type conversion, and f-strings.
+
+For each problem, write a Python script (`.py` file) that accomplishes the requested tasks. Include comments in your code describing the major steps.
+
+---
 
 ## 1. Summarizing a DNA sequence
 
@@ -39,7 +43,57 @@ print(f"GC content: {gc_content:.3f}")
 
 ---
 
-## 2. Expected genotype frequencies under Hardy-Weinberg equilibrium
+## 2. Calculating a sampling summary
+
+You are collecting data from a field study. At one sampling site, you counted the number of individuals of a species in a rectangular sampling plot.
+
+Write a Python script that asks the user for:
+
+- the **length of the plot in meters**
+- the **width of the plot in meters**
+- the **number of individuals counted**
+
+Your program should then:
+
+1. Calculate the area of the plot in square meters.
+2. Calculate the density of individuals per square meter.
+3. Estimate how many individuals would occur in an area of 100 square meters if the same density were maintained.
+4. Print a clearly labeled summary of the results.
+5. Report area, density, and the estimated number of individuals to two decimal places.
+
+Remember that values obtained with `input()` are strings. Convert the measurements to the appropriate numeric type before performing calculations.
+
+For example:
+
+```py
+length = float(input("Enter plot length in meters: "))
+```
+
+and:
+
+```py
+count = int(input("Enter number of individuals counted: "))
+```
+
+You can use f-strings to control the appearance of your output:
+
+```py
+print(f"Plot area: {area:.2f} square meters")
+```
+
+If a user entered a plot length of `8`, a width of `5`, and a count of `23`, your program should produce output similar to:
+
+```text
+Sampling summary
+Plot area: 40.00 square meters
+Individuals counted: 23
+Density: 0.57 individuals per square meter
+Estimated individuals per 100 square meters: 57.50
+```
+
+---
+
+## 3. Expected genotype frequencies under Hardy-Weinberg equilibrium
 
 Write a Python script that calculates expected genotype frequencies under Hardy-Weinberg equilibrium for a locus with two alleles, `A` and `a`.
 
@@ -78,47 +132,12 @@ p = 0.350
 q = 0.650
 
 Expected genotype frequencies:
-AA = 0.123
+AA = 0.122
 Aa = 0.455
 aa = 0.423
 
 Check: genotype frequencies sum to 1.000
 ```
-
----
-
-## 3. Calculating allele frequencies from observed genotype counts
-
-Suppose you sampled a population and observed the following genotype counts:
-
-```text
-AA = 37
-Aa = 46
-aa = 17
-```
-
-Write a Python script that stores these values as variables and calculates:
-
-1. The total number of individuals sampled.
-2. The total number of copies of the gene sampled. Remember that each diploid individual carries two copies.
-3. The total number of `A` alleles in the sample.
-4. The total number of `a` alleles in the sample.
-5. The frequency of allele `A` (`p`).
-6. The frequency of allele `a` (`q`).
-7. The observed heterozygosity: the proportion of sampled individuals that have genotype `Aa`.
-8. A check showing that `p + q = 1`.
-
-Begin by storing the genotype counts as integers:
-
-```py
-AA = 37
-Aa = 46
-aa = 17
-```
-
-Think carefully about how many copies of each allele are contributed by each genotype. For example, an `AA` individual contributes **two A alleles**, while an `Aa` individual contributes **one A and one a allele**.
-
-Use f-strings to produce clearly labeled output, and report frequencies to three decimal places.
 
 ---
 
